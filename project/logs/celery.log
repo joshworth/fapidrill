@@ -1,0 +1,2055 @@
+[2022-06-26 18:08:29,666: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-06-26 18:08:29,675: INFO/MainProcess] mingle: searching for neighbors
+[2022-06-26 18:08:30,694: INFO/MainProcess] mingle: all alone
+[2022-06-26 18:08:30,721: INFO/MainProcess] celery@cafab4363b77 ready.
+[2022-06-26 18:11:26,533: INFO/MainProcess] Received task: create_task[fca0b82c-4c2a-4f68-8e06-7171566db2dd]  
+[2022-06-26 18:11:33,354: INFO/MainProcess] Received task: create_task[f1ca4f01-1420-4661-b3a4-d6da1e4f750e]  
+[2022-06-26 18:11:36,555: INFO/ForkPoolWorker-1] Task create_task[fca0b82c-4c2a-4f68-8e06-7171566db2dd] succeeded in 10.020037999999658s: True
+[2022-06-26 18:11:36,624: INFO/MainProcess] Received task: create_task[d66c8fe5-710e-4b2b-b43d-9febced309ea]  
+[2022-06-26 18:11:38,935: INFO/MainProcess] Received task: create_task[122dffb3-f079-4a64-b90e-20d76c7dfb69]  
+[2022-06-26 18:11:39,641: INFO/MainProcess] Received task: create_task[da0dd921-dd1a-4486-b72d-640a54511037]  
+[2022-06-26 18:11:42,368: INFO/MainProcess] Received task: create_task[8c4d92e5-5580-4aa8-be94-3f03628bcfb6]  
+[2022-06-26 18:11:53,382: INFO/ForkPoolWorker-2] Task create_task[f1ca4f01-1420-4661-b3a4-d6da1e4f750e] succeeded in 20.02691959999993s: True
+[2022-06-26 18:11:55,154: INFO/MainProcess] Received task: create_task[e510baf5-fd72-4886-bf81-29f6332d6f57]  
+[2022-06-26 18:12:03,396: INFO/ForkPoolWorker-2] Task create_task[122dffb3-f079-4a64-b90e-20d76c7dfb69] succeeded in 10.011939600000005s: True
+[2022-06-26 18:12:06,659: INFO/ForkPoolWorker-1] Task create_task[d66c8fe5-710e-4b2b-b43d-9febced309ea] succeeded in 30.032584499999757s: True
+[2022-06-26 18:12:23,421: INFO/ForkPoolWorker-2] Task create_task[da0dd921-dd1a-4486-b72d-640a54511037] succeeded in 20.022305999999844s: True
+[2022-06-26 18:12:33,433: INFO/ForkPoolWorker-2] Task create_task[e510baf5-fd72-4886-bf81-29f6332d6f57] succeeded in 10.007254699999976s: True
+[2022-06-26 18:12:36,690: INFO/ForkPoolWorker-1] Task create_task[8c4d92e5-5580-4aa8-be94-3f03628bcfb6] succeeded in 30.02665309999975s: True
+[2022-06-26 18:23:02,789: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-06-26 18:23:02,798: INFO/MainProcess] mingle: searching for neighbors
+[2022-06-26 18:23:03,818: INFO/MainProcess] mingle: all alone
+[2022-06-26 18:23:03,854: INFO/MainProcess] celery@2874b8c88f97 ready.
+[2022-06-26 18:25:42,882: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-06-26 18:25:42,897: INFO/MainProcess] mingle: searching for neighbors
+[2022-06-26 18:25:43,949: INFO/MainProcess] mingle: all alone
+[2022-06-26 18:25:43,963: INFO/MainProcess] celery@4b9980c26105 ready.
+[2022-06-26 18:25:47,988: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-06-26 18:26:36,470: INFO/MainProcess] Received task: create_task[a1eecea7-b0b8-46d0-ba24-09c9ac86d1d0]  
+[2022-06-26 18:26:39,624: INFO/MainProcess] Received task: create_task[1388af53-534f-427e-b05f-8d5085d972a5]  
+[2022-06-26 18:26:42,339: INFO/MainProcess] Received task: create_task[c7daec42-547e-480c-b8da-558e38230661]  
+[2022-06-26 18:26:44,986: INFO/MainProcess] Received task: create_task[d3d8105f-ba49-4e94-936e-0f8eb71e723e]  
+[2022-06-26 18:26:46,490: INFO/ForkPoolWorker-1] Task create_task[a1eecea7-b0b8-46d0-ba24-09c9ac86d1d0] succeeded in 10.016534100000172s: True
+[2022-06-26 18:26:47,544: INFO/MainProcess] Received task: create_task[4b490f08-ccec-4c53-bb9b-58c87b0a932b]  
+[2022-06-26 18:26:49,331: INFO/MainProcess] Received task: create_task[75a0805a-210e-4c3f-98c7-b44722d13b0d]  
+[2022-06-26 18:26:59,654: INFO/ForkPoolWorker-2] Task create_task[1388af53-534f-427e-b05f-8d5085d972a5] succeeded in 20.025763599999664s: True
+[2022-06-26 18:27:09,663: INFO/ForkPoolWorker-2] Task create_task[d3d8105f-ba49-4e94-936e-0f8eb71e723e] succeeded in 10.005596499999228s: True
+[2022-06-26 18:27:12,601: INFO/MainProcess] Received task: create_task[86e988cf-6580-4ee5-9960-59677f9d9cc4]  
+[2022-06-26 18:27:15,652: INFO/MainProcess] Received task: create_task[7a5d81f2-31d9-4509-a2d0-35034902c9b0]  
+[2022-06-26 18:27:16,514: INFO/ForkPoolWorker-1] Task create_task[c7daec42-547e-480c-b8da-558e38230661] succeeded in 30.02011990000028s: True
+[2022-06-26 18:27:18,052: INFO/MainProcess] Received task: create_task[24e96968-ba3d-4722-9ac7-6c047f7fa082]  
+[2022-06-26 18:27:29,674: INFO/ForkPoolWorker-2] Task create_task[4b490f08-ccec-4c53-bb9b-58c87b0a932b] succeeded in 20.00570870000047s: True
+[2022-06-26 18:27:33,947: INFO/MainProcess] Received task: create_task[71e75473-0e0a-4bb7-8bd3-6ca45cd92183]  
+[2022-06-26 18:27:36,907: INFO/MainProcess] Received task: create_task[9e2cdd3b-2506-4974-bcf1-fdc43b099ff5]  
+[2022-06-26 18:27:46,551: INFO/ForkPoolWorker-1] Task create_task[75a0805a-210e-4c3f-98c7-b44722d13b0d] succeeded in 30.026649099999304s: True
+[2022-06-26 18:27:56,567: INFO/ForkPoolWorker-1] Task create_task[7a5d81f2-31d9-4509-a2d0-35034902c9b0] succeeded in 10.01226250000036s: True
+[2022-06-26 18:27:59,714: INFO/ForkPoolWorker-2] Task create_task[86e988cf-6580-4ee5-9960-59677f9d9cc4] succeeded in 30.032080800000585s: True
+[2022-06-26 18:28:09,730: INFO/ForkPoolWorker-2] Task create_task[71e75473-0e0a-4bb7-8bd3-6ca45cd92183] succeeded in 10.011803500000497s: True
+[2022-06-26 18:28:16,595: INFO/ForkPoolWorker-1] Task create_task[24e96968-ba3d-4722-9ac7-6c047f7fa082] succeeded in 20.023711699999694s: True
+[2022-06-26 18:28:29,756: INFO/ForkPoolWorker-2] Task create_task[9e2cdd3b-2506-4974-bcf1-fdc43b099ff5] succeeded in 20.020541900000353s: True
+[2022-06-26 19:00:12,748: INFO/MainProcess] Received task: create_task[3ea3eb92-2d78-46a5-b30a-d378da509913]  
+[2022-06-26 19:00:22,757: INFO/ForkPoolWorker-1] Task create_task[3ea3eb92-2d78-46a5-b30a-d378da509913] succeeded in 10.006532100000186s: True
+[2022-07-08 21:13:09,880: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-07-08 21:13:09,889: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-08 21:13:10,916: INFO/MainProcess] mingle: all alone
+[2022-07-08 21:13:10,952: INFO/MainProcess] celery@4b9980c26105 ready.
+[2022-07-08 21:13:15,071: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-08 21:17:48,178: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-07-08 21:17:48,186: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-08 21:17:49,243: INFO/MainProcess] mingle: all alone
+[2022-07-08 21:17:49,278: INFO/MainProcess] celery@4b9980c26105 ready.
+[2022-07-08 21:17:53,327: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-08 21:20:46,009: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-07-08 21:20:46,016: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-08 21:20:47,033: INFO/MainProcess] mingle: all alone
+[2022-07-08 21:20:47,052: INFO/MainProcess] celery@c409d7d451aa ready.
+[2022-07-08 21:20:53,127: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-08 21:22:29,225: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-07-08 21:22:29,245: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-08 21:22:30,277: INFO/MainProcess] mingle: all alone
+[2022-07-08 21:22:30,290: INFO/MainProcess] celery@14850b1ce0d5 ready.
+[2022-07-08 21:22:34,535: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-08 21:42:18,304: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-07-08 21:42:18,325: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-08 21:42:19,356: INFO/MainProcess] mingle: all alone
+[2022-07-08 21:42:19,369: INFO/MainProcess] celery@7193fd1a3ba1 ready.
+[2022-07-08 21:42:23,483: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-08 21:43:44,377: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-07-08 21:43:44,398: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-08 21:43:45,452: INFO/MainProcess] mingle: all alone
+[2022-07-08 21:43:45,465: INFO/MainProcess] celery@43e572b6999d ready.
+[2022-07-08 21:43:49,607: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-08 21:47:14,270: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-07-08 21:47:14,297: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-08 21:47:15,339: INFO/MainProcess] mingle: all alone
+[2022-07-08 21:47:15,353: INFO/MainProcess] celery@9ab0f9f8b117 ready.
+[2022-07-08 21:47:19,042: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-11 07:12:39,810: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-07-11 07:12:39,823: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-11 07:12:40,844: INFO/MainProcess] mingle: all alone
+[2022-07-11 07:12:40,861: INFO/MainProcess] celery@9ab0f9f8b117 ready.
+[2022-07-11 07:12:44,548: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-11 07:16:09,945: INFO/MainProcess] Received task: create_task[cea948bb-6628-46c7-82e5-4a17cacadb5f]  
+[2022-07-11 07:16:19,964: INFO/ForkPoolWorker-1] Task create_task[cea948bb-6628-46c7-82e5-4a17cacadb5f] succeeded in 10.015111599999727s: True
+[2022-07-11 08:13:51,747: INFO/MainProcess] Received task: create_task[5f45d633-2817-4728-8d20-3425fd3d4d2f]  
+[2022-07-11 08:13:56,913: INFO/MainProcess] Received task: create_task[923eb496-576d-4115-bd7a-41b415538e9f]  
+[2022-07-11 08:14:01,763: INFO/ForkPoolWorker-1] Task create_task[5f45d633-2817-4728-8d20-3425fd3d4d2f] succeeded in 10.012040699999488s: True
+[2022-07-11 08:14:06,934: INFO/ForkPoolWorker-2] Task create_task[923eb496-576d-4115-bd7a-41b415538e9f] succeeded in 10.014321999999993s: True
+[2022-07-11 08:17:15,335: INFO/MainProcess] Received task: create_task[29948eed-f5da-4ea1-beb4-75c64a168e70]  
+[2022-07-11 08:17:25,350: INFO/ForkPoolWorker-1] Task create_task[29948eed-f5da-4ea1-beb4-75c64a168e70] succeeded in 10.010858399999961s: True
+[2022-07-11 08:26:29,443: INFO/MainProcess] Received task: create_task[72d50772-9f94-4a6c-8246-c2ab2ae55b47]  
+[2022-07-11 08:26:49,477: INFO/ForkPoolWorker-1] Task create_task[72d50772-9f94-4a6c-8246-c2ab2ae55b47] succeeded in 20.021919900000285s: True
+[2022-07-11 08:28:38,196: INFO/MainProcess] Received task: create_task[6247dd67-bad6-4c23-b71e-ab690c4b18ba]  
+[2022-07-11 08:28:48,213: INFO/ForkPoolWorker-1] Task create_task[6247dd67-bad6-4c23-b71e-ab690c4b18ba] succeeded in 10.013596300000245s: True
+[2022-07-11 08:29:27,444: INFO/MainProcess] Received task: create_task[a320b7e7-ac9d-45da-bcd0-2e013ad3804f]  
+[2022-07-11 08:29:37,454: INFO/ForkPoolWorker-1] Task create_task[a320b7e7-ac9d-45da-bcd0-2e013ad3804f] succeeded in 10.006510000000162s: True
+[2022-07-11 08:29:49,393: INFO/MainProcess] Received task: create_task[903c6c09-83b3-4524-8a6f-872facda025d]  
+[2022-07-11 08:29:59,414: INFO/ForkPoolWorker-1] Task create_task[903c6c09-83b3-4524-8a6f-872facda025d] succeeded in 10.013869599999452s: True
+[2022-07-11 08:30:05,363: INFO/MainProcess] Received task: create_task[6afa2cf6-5f93-47ec-883c-5ca0d0e7b3bb]  
+[2022-07-11 08:30:15,384: INFO/ForkPoolWorker-1] Task create_task[6afa2cf6-5f93-47ec-883c-5ca0d0e7b3bb] succeeded in 10.009694299999865s: True
+[2022-07-11 08:30:26,944: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-07-11 08:30:26,952: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-11 08:30:27,976: INFO/MainProcess] mingle: all alone
+[2022-07-11 08:30:27,993: INFO/MainProcess] celery@9ab0f9f8b117 ready.
+[2022-07-11 08:30:31,669: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-11 08:30:37,681: INFO/MainProcess] Received task: create_task[ef612081-015e-442c-a398-83f582a0aafc]  
+[2022-07-11 08:31:48,093: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-07-11 08:31:48,104: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-11 08:31:49,136: INFO/MainProcess] mingle: all alone
+[2022-07-11 08:31:49,148: INFO/MainProcess] celery@9ab0f9f8b117 ready.
+[2022-07-11 08:31:52,674: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-11 08:32:12,452: INFO/MainProcess] Received task: create_task[54e47d7b-1946-43f7-a0a9-369a677b24ed]  
+[2022-07-11 08:32:22,567: INFO/ForkPoolWorker-1] Task create_task[54e47d7b-1946-43f7-a0a9-369a677b24ed] succeeded in 10.111681999999746s: True
+[2022-07-11 08:33:00,548: INFO/MainProcess] Received task: create_task[c8fdc156-70a8-46a1-917d-2cfa26cf3e9e]  
+[2022-07-11 08:33:10,623: INFO/ForkPoolWorker-1] Task create_task[c8fdc156-70a8-46a1-917d-2cfa26cf3e9e] succeeded in 10.06867880000027s: True
+[2022-07-11 08:33:33,849: INFO/MainProcess] Received task: create_task[20ea17e6-a3bb-49f5-b97f-6a3e326e4ee5]  
+[2022-07-11 08:33:44,000: INFO/ForkPoolWorker-1] Task create_task[20ea17e6-a3bb-49f5-b97f-6a3e326e4ee5] succeeded in 10.14080389999981s: True
+[2022-07-11 08:34:00,783: INFO/MainProcess] Received task: create_task[fc2ee6ae-d394-4a10-9baf-796030195a8a]  
+[2022-07-11 08:34:10,852: INFO/ForkPoolWorker-1] Task create_task[fc2ee6ae-d394-4a10-9baf-796030195a8a] succeeded in 10.064726999999948s: True
+[2022-07-11 08:34:20,742: INFO/MainProcess] Received task: create_task[99bc526d-9e44-4a3f-8178-a13936f91547]  
+[2022-07-11 08:34:30,816: INFO/ForkPoolWorker-1] Task create_task[99bc526d-9e44-4a3f-8178-a13936f91547] succeeded in 10.067485699999452s: True
+[2022-07-11 08:35:21,910: INFO/MainProcess] Received task: create_task[5f601223-07b6-4f95-b03a-1d7793e2ea48]  
+[2022-07-11 08:35:31,980: INFO/ForkPoolWorker-1] Task create_task[5f601223-07b6-4f95-b03a-1d7793e2ea48] succeeded in 10.06300740000006s: True
+[2022-07-11 08:36:00,994: INFO/MainProcess] Received task: create_task[6a0a3b5b-8bc1-4af1-9498-f19649d5c4b7]  
+[2022-07-11 08:36:02,584: INFO/MainProcess] Received task: create_task[d49895f4-7a34-4500-ac45-d0be7c2f76fd]  
+[2022-07-11 08:36:04,118: INFO/MainProcess] Received task: create_task[35d65542-1f62-4997-9e95-8df11ceb1cfb]  
+[2022-07-11 08:36:11,093: INFO/ForkPoolWorker-1] Task create_task[6a0a3b5b-8bc1-4af1-9498-f19649d5c4b7] succeeded in 10.092390100000557s: True
+[2022-07-11 08:36:22,701: INFO/ForkPoolWorker-2] Task create_task[d49895f4-7a34-4500-ac45-d0be7c2f76fd] succeeded in 20.111133999999765s: True
+[2022-07-11 08:36:41,207: INFO/ForkPoolWorker-1] Task create_task[35d65542-1f62-4997-9e95-8df11ceb1cfb] succeeded in 30.111670600000252s: True
+[2022-07-11 08:47:36,517: INFO/MainProcess] Received task: create_task[593fcb62-857d-4ea9-af17-712c6050ae95]  
+[2022-07-11 08:47:41,364: INFO/MainProcess] Received task: create_task[1b4e963d-6278-437a-b324-ba17948c197c]  
+[2022-07-11 08:47:42,486: INFO/MainProcess] Received task: create_task[961adfe4-2b02-4153-9d1e-eaa86a989cd7]  
+[2022-07-11 08:47:46,607: INFO/ForkPoolWorker-1] Task create_task[593fcb62-857d-4ea9-af17-712c6050ae95] succeeded in 10.081850899999154s: True
+[2022-07-11 08:48:01,456: INFO/ForkPoolWorker-2] Task create_task[1b4e963d-6278-437a-b324-ba17948c197c] succeeded in 20.08831939999982s: True
+[2022-07-11 08:48:16,687: INFO/ForkPoolWorker-1] Task create_task[961adfe4-2b02-4153-9d1e-eaa86a989cd7] succeeded in 30.078270599999996s: True
+[2022-07-11 08:49:17,126: INFO/MainProcess] Received task: create_task[40dac2f5-8eb9-4b77-95a7-59793b8b58a7]  
+[2022-07-11 08:49:23,932: INFO/MainProcess] Received task: create_task[40d02521-a3c0-48c0-a787-a155929b1177]  
+[2022-07-11 08:49:27,219: INFO/ForkPoolWorker-1] Task create_task[40dac2f5-8eb9-4b77-95a7-59793b8b58a7] succeeded in 10.09036770000057s: True
+[2022-07-11 08:49:29,848: INFO/MainProcess] Received task: create_task[7161c205-c524-4ad8-bed7-359ed70b252c]  
+[2022-07-11 08:49:44,033: INFO/ForkPoolWorker-2] Task create_task[40d02521-a3c0-48c0-a787-a155929b1177] succeeded in 20.093365099999573s: True
+[2022-07-11 08:49:59,970: INFO/ForkPoolWorker-1] Task create_task[7161c205-c524-4ad8-bed7-359ed70b252c] succeeded in 30.116989699999976s: True
+[2022-07-11 09:15:14,974: INFO/MainProcess] Received task: create_task[16b0a4fa-6bc1-4359-8520-f2a789aadb6a]  
+[2022-07-11 09:15:18,130: INFO/MainProcess] Received task: create_task[549b619a-e04c-42c2-b7f0-0fbee107cb69]  
+[2022-07-11 09:15:19,301: INFO/MainProcess] Received task: create_task[157e24ee-4b29-4692-b586-5020eb4f6a59]  
+[2022-07-11 09:15:25,069: INFO/ForkPoolWorker-1] Task create_task[16b0a4fa-6bc1-4359-8520-f2a789aadb6a] succeeded in 10.091081299999132s: True
+[2022-07-11 09:15:38,194: INFO/ForkPoolWorker-2] Task create_task[549b619a-e04c-42c2-b7f0-0fbee107cb69] succeeded in 20.060075600000346s: True
+[2022-07-11 09:15:55,161: INFO/ForkPoolWorker-1] Task create_task[157e24ee-4b29-4692-b586-5020eb4f6a59] succeeded in 30.088733100001264s: True
+[2022-07-11 10:28:48,340: INFO/MainProcess] Received task: create_task[9fb97b41-2efc-465e-8b21-54b1fe7499b9]  
+[2022-07-11 10:28:49,548: INFO/MainProcess] Received task: create_task[ad7f1107-9a3d-4d96-98af-d718fa24defd]  
+[2022-07-11 10:28:50,672: INFO/MainProcess] Received task: create_task[d477c83f-25e2-46cd-b880-9dab5d29a778]  
+[2022-07-11 10:28:58,424: INFO/ForkPoolWorker-1] Task create_task[9fb97b41-2efc-465e-8b21-54b1fe7499b9] succeeded in 10.080465099999856s: True
+[2022-07-11 10:29:09,656: INFO/ForkPoolWorker-2] Task create_task[ad7f1107-9a3d-4d96-98af-d718fa24defd] succeeded in 20.104679000000033s: True
+[2022-07-11 10:29:28,524: INFO/ForkPoolWorker-1] Task create_task[d477c83f-25e2-46cd-b880-9dab5d29a778] succeeded in 30.09690629999932s: True
+[2022-07-11 10:30:20,106: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-07-11 10:30:20,117: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-11 10:30:21,140: INFO/MainProcess] mingle: all alone
+[2022-07-11 10:30:21,157: INFO/MainProcess] celery@9ab0f9f8b117 ready.
+[2022-07-11 10:30:24,713: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-11 10:30:33,763: INFO/MainProcess] Received task: create_task[30c83f43-9cf1-4079-a9ed-a6cffc84fc9c]  
+[2022-07-11 10:30:34,525: INFO/MainProcess] Received task: create_task[08f50aaf-c62b-4d90-859a-9ad85fe73f53]  
+[2022-07-11 10:30:35,470: INFO/MainProcess] Received task: create_task[030d6cee-2769-4151-950e-f1e206a723d0]  
+[2022-07-11 10:30:43,769: WARNING/ForkPoolWorker-1] ERROR:
+[2022-07-11 10:30:43,772: WARNING/ForkPoolWorker-1] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:30:43,780: INFO/ForkPoolWorker-1] Task create_task[30c83f43-9cf1-4079-a9ed-a6cffc84fc9c] succeeded in 10.013161500000933s: True
+[2022-07-11 10:30:54,551: WARNING/ForkPoolWorker-2] ERROR:
+[2022-07-11 10:30:54,556: WARNING/ForkPoolWorker-2] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:30:54,571: INFO/ForkPoolWorker-2] Task create_task[08f50aaf-c62b-4d90-859a-9ad85fe73f53] succeeded in 20.041667299999972s: True
+[2022-07-11 10:31:09,990: INFO/MainProcess] Received task: create_task[45815dc5-d7d0-43c6-af76-f563f164e226]  
+[2022-07-11 10:31:11,003: INFO/MainProcess] Received task: create_task[775273e0-851c-47cf-ba75-7828fc524c7d]  
+[2022-07-11 10:31:12,284: INFO/MainProcess] Received task: create_task[2e478951-6c2f-4c44-89ea-ace977312e22]  
+[2022-07-11 10:31:13,812: WARNING/ForkPoolWorker-1] ERROR:
+[2022-07-11 10:31:13,813: WARNING/ForkPoolWorker-1] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:31:13,815: INFO/ForkPoolWorker-1] Task create_task[030d6cee-2769-4151-950e-f1e206a723d0] succeeded in 30.033038300000044s: True
+[2022-07-11 10:31:20,004: WARNING/ForkPoolWorker-2] ERROR:
+[2022-07-11 10:31:20,007: WARNING/ForkPoolWorker-2] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:31:20,010: INFO/ForkPoolWorker-2] Task create_task[45815dc5-d7d0-43c6-af76-f563f164e226] succeeded in 10.017106899998907s: True
+[2022-07-11 10:31:33,820: WARNING/ForkPoolWorker-1] ERROR:
+[2022-07-11 10:31:33,822: WARNING/ForkPoolWorker-1] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:31:33,824: INFO/ForkPoolWorker-1] Task create_task[775273e0-851c-47cf-ba75-7828fc524c7d] succeeded in 20.005125399999088s: True
+[2022-07-11 10:31:50,044: WARNING/ForkPoolWorker-2] ERROR:
+[2022-07-11 10:31:50,046: WARNING/ForkPoolWorker-2] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:31:50,050: INFO/ForkPoolWorker-2] Task create_task[2e478951-6c2f-4c44-89ea-ace977312e22] succeeded in 30.033610500000577s: True
+[2022-07-11 10:33:21,018: INFO/MainProcess] Received task: create_task[6c7895c9-218d-4868-be88-3dfe47bf7318]  
+[2022-07-11 10:33:21,854: INFO/MainProcess] Received task: create_task[ed7ecdc8-e6a7-447b-9804-96636ddeac62]  
+[2022-07-11 10:33:22,797: INFO/MainProcess] Received task: create_task[92799bea-3c8b-4bf6-b77b-bf2a77d82fe5]  
+[2022-07-11 10:33:31,028: WARNING/ForkPoolWorker-1] ERROR:
+[2022-07-11 10:33:31,030: WARNING/ForkPoolWorker-1] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:33:31,032: INFO/ForkPoolWorker-1] Task create_task[6c7895c9-218d-4868-be88-3dfe47bf7318] succeeded in 10.010158499999307s: True
+[2022-07-11 10:33:41,874: WARNING/ForkPoolWorker-2] ERROR:
+[2022-07-11 10:33:41,876: WARNING/ForkPoolWorker-2] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:33:41,879: INFO/ForkPoolWorker-2] Task create_task[ed7ecdc8-e6a7-447b-9804-96636ddeac62] succeeded in 20.01448999999957s: True
+[2022-07-11 10:34:01,062: WARNING/ForkPoolWorker-1] ERROR:
+[2022-07-11 10:34:01,067: WARNING/ForkPoolWorker-1] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:34:01,070: INFO/ForkPoolWorker-1] Task create_task[92799bea-3c8b-4bf6-b77b-bf2a77d82fe5] succeeded in 30.034547199998997s: True
+[2022-07-11 10:36:59,860: INFO/MainProcess] Received task: create_task[31ad4539-bd9c-4b1a-9094-a493713058b6]  
+[2022-07-11 10:37:09,874: WARNING/ForkPoolWorker-1] ERROR:
+[2022-07-11 10:37:09,877: WARNING/ForkPoolWorker-1] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:37:09,882: INFO/ForkPoolWorker-1] Task create_task[31ad4539-bd9c-4b1a-9094-a493713058b6] succeeded in 10.0185934000001s: True
+[2022-07-11 10:37:17,160: INFO/MainProcess] Received task: create_task[5ad6b6d7-47db-4927-a8e6-95f624dd33df]  
+[2022-07-11 10:37:27,175: WARNING/ForkPoolWorker-1] ERROR:
+[2022-07-11 10:37:27,178: WARNING/ForkPoolWorker-1] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:37:27,183: INFO/ForkPoolWorker-1] Task create_task[5ad6b6d7-47db-4927-a8e6-95f624dd33df] succeeded in 10.017168399999719s: True
+[2022-07-11 10:38:58,171: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-07-11 10:38:58,181: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-11 10:38:59,209: INFO/MainProcess] mingle: all alone
+[2022-07-11 10:38:59,230: INFO/MainProcess] celery@9ab0f9f8b117 ready.
+[2022-07-11 10:39:02,806: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-11 10:39:13,854: INFO/MainProcess] Received task: create_task[8d447848-5d1d-41e7-b86f-6fb33d70784d]  
+[2022-07-11 10:39:20,311: INFO/MainProcess] Received task: create_task[94c07dfc-55d3-49e6-8250-9de43d084516]  
+[2022-07-11 10:39:23,868: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 10:39:23,958: INFO/ForkPoolWorker-1] Task create_task[8d447848-5d1d-41e7-b86f-6fb33d70784d] succeeded in 10.100281600000017s: True
+[2022-07-11 10:39:40,340: INFO/ForkPoolWorker-2] SESSION CREATE ---- 
+[2022-07-11 10:39:40,418: INFO/ForkPoolWorker-2] Task create_task[94c07dfc-55d3-49e6-8250-9de43d084516] succeeded in 20.09859359999973s: True
+[2022-07-11 10:41:45,982: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-07-11 10:41:45,990: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-11 10:41:47,010: INFO/MainProcess] mingle: all alone
+[2022-07-11 10:41:47,039: INFO/MainProcess] celery@d41d623f3bcb ready.
+[2022-07-11 10:41:51,061: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-11 10:42:25,122: INFO/MainProcess] Received task: create_task[9b6713a9-ae11-4de3-81fe-6803df0109c1]  
+[2022-07-11 10:42:35,135: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 10:42:35,213: INFO/ForkPoolWorker-1] Task create_task[9b6713a9-ae11-4de3-81fe-6803df0109c1] succeeded in 10.087604100001045s: True
+[2022-07-11 10:42:35,254: INFO/MainProcess] Received task: create_task[299f4fbe-d443-46a8-b2fd-144cf9e04699]  
+[2022-07-11 10:42:39,215: INFO/MainProcess] Received task: create_task[191d18ac-ded8-4ef4-8e9f-4465d90edc00]  
+[2022-07-11 10:42:40,434: INFO/MainProcess] Received task: create_task[cfe5c156-0d34-43e0-8a11-1c22b28f9b3d]  
+[2022-07-11 10:42:55,268: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 10:42:55,337: INFO/ForkPoolWorker-1] Task create_task[299f4fbe-d443-46a8-b2fd-144cf9e04699] succeeded in 20.079802899999777s: True
+[2022-07-11 10:43:05,351: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 10:43:05,423: INFO/ForkPoolWorker-1] Task create_task[cfe5c156-0d34-43e0-8a11-1c22b28f9b3d] succeeded in 10.082332199999655s: True
+[2022-07-11 10:43:09,236: INFO/ForkPoolWorker-2] SESSION CREATE ---- 
+[2022-07-11 10:43:09,319: INFO/ForkPoolWorker-2] Task create_task[191d18ac-ded8-4ef4-8e9f-4465d90edc00] succeeded in 30.09635150000031s: True
+[2022-07-11 10:44:54,208: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-07-11 10:44:54,226: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-11 10:44:55,258: INFO/MainProcess] mingle: all alone
+[2022-07-11 10:44:55,281: INFO/MainProcess] celery@13a6cc039994 ready.
+[2022-07-11 10:44:59,066: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-11 10:45:28,605: INFO/MainProcess] Received task: create_task[626a6a47-6789-4622-bef6-880b1d8fd2b5]  
+[2022-07-11 10:45:29,646: INFO/MainProcess] Received task: create_task[7790ea06-5360-484b-8b86-711bfc073920]  
+[2022-07-11 10:45:30,754: INFO/MainProcess] Received task: create_task[e5f68000-e345-498b-9ff5-5bee6297a973]  
+[2022-07-11 10:45:38,610: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 10:45:38,619: WARNING/ForkPoolWorker-1] --- Logging error ---
+[2022-07-11 10:45:38,634: WARNING/ForkPoolWorker-1] Traceback (most recent call last):
+[2022-07-11 10:45:38,636: WARNING/ForkPoolWorker-1] File "/usr/src/app/worker.py", line 28, in create_task
+    items = db_crud.get_items()
+[2022-07-11 10:45:38,637: WARNING/ForkPoolWorker-1] TypeError: get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:45:38,639: WARNING/ForkPoolWorker-1] During handling of the above exception, another exception occurred:
+[2022-07-11 10:45:38,641: WARNING/ForkPoolWorker-1] Traceback (most recent call last):
+[2022-07-11 10:45:38,642: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 1083, in emit
+    msg = self.format(record)
+[2022-07-11 10:45:38,643: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 927, in format
+    return fmt.format(record)
+[2022-07-11 10:45:38,644: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/utils/log.py", line 153, in format
+    msg = logging.Formatter.format(self, record)
+[2022-07-11 10:45:38,645: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 663, in format
+    record.message = record.getMessage()
+[2022-07-11 10:45:38,645: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 367, in getMessage
+    msg = msg % self.args
+[2022-07-11 10:45:38,646: WARNING/ForkPoolWorker-1] TypeError: not all arguments converted during string formatting
+[2022-07-11 10:45:38,647: WARNING/ForkPoolWorker-1] Call stack:
+[2022-07-11 10:45:38,649: WARNING/ForkPoolWorker-1] File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2022-07-11 10:45:38,650: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/__main__.py", line 16, in main
+    _main()
+[2022-07-11 10:45:38,651: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 322, in main
+    cmd.execute_from_commandline(argv)
+[2022-07-11 10:45:38,652: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 499, in execute_from_commandline
+    super(CeleryCommand, self).execute_from_commandline(argv)))
+[2022-07-11 10:45:38,653: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 305, in execute_from_commandline
+    return self.handle_argv(self.prog_name, argv[1:])
+[2022-07-11 10:45:38,653: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 491, in handle_argv
+    return self.execute(command, argv)
+[2022-07-11 10:45:38,654: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 415, in execute
+    return cls(
+[2022-07-11 10:45:38,655: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 223, in run_from_argv
+    return self(*args, **options)
+[2022-07-11 10:45:38,656: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 253, in __call__
+    ret = self.run(*args, **kwargs)
+[2022-07-11 10:45:38,656: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 259, in run
+    worker.start()
+[2022-07-11 10:45:38,657: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/worker/worker.py", line 208, in start
+    self.blueprint.start(self)
+[2022-07-11 10:45:38,658: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+[2022-07-11 10:45:38,658: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 369, in start
+    return self.obj.start()
+[2022-07-11 10:45:38,659: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/base.py", line 132, in start
+    self.on_start()
+[2022-07-11 10:45:38,659: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/prefork.py", line 111, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2022-07-11 10:45:38,660: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 486, in __init__
+    super(AsynPool, self).__init__(processes, *args, **kwargs)
+[2022-07-11 10:45:38,660: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2022-07-11 10:45:38,661: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 503, in _create_worker_process
+    return super(AsynPool, self)._create_worker_process(i)
+[2022-07-11 10:45:38,662: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2022-07-11 10:45:38,662: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2022-07-11 10:45:38,663: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2022-07-11 10:45:38,663: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2022-07-11 10:45:38,664: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2022-07-11 10:45:38,664: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2022-07-11 10:45:38,665: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2022-07-11 10:45:38,666: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2022-07-11 10:45:38,666: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2022-07-11 10:45:38,667: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 611, in _fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2022-07-11 10:45:38,667: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 412, in trace_task
+    R = retval = fun(*args, **kwargs)
+[2022-07-11 10:45:38,668: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 704, in __protected_call__
+    return self.run(*args, **kwargs)
+[2022-07-11 10:45:38,669: WARNING/ForkPoolWorker-1] File "/usr/src/app/worker.py", line 43, in create_task
+    logging.error("Error: ", xx)
+[2022-07-11 10:45:38,669: WARNING/ForkPoolWorker-1] Message: 'Error: '
+Arguments: (TypeError("get_items() missing 1 required positional argument: 'db'"),)
+[2022-07-11 10:45:38,670: WARNING/ForkPoolWorker-1] ERROR:
+[2022-07-11 10:45:38,671: WARNING/ForkPoolWorker-1] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:45:38,674: INFO/ForkPoolWorker-1] Task create_task[626a6a47-6789-4622-bef6-880b1d8fd2b5] succeeded in 10.065058999998655s: True
+[2022-07-11 10:45:49,670: INFO/ForkPoolWorker-2] SESSION CREATE ---- 
+[2022-07-11 10:45:49,673: WARNING/ForkPoolWorker-2] --- Logging error ---
+[2022-07-11 10:45:49,678: WARNING/ForkPoolWorker-2] Traceback (most recent call last):
+[2022-07-11 10:45:49,679: WARNING/ForkPoolWorker-2] File "/usr/src/app/worker.py", line 28, in create_task
+    items = db_crud.get_items()
+[2022-07-11 10:45:49,680: WARNING/ForkPoolWorker-2] TypeError: get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:45:49,680: WARNING/ForkPoolWorker-2] During handling of the above exception, another exception occurred:
+[2022-07-11 10:45:49,681: WARNING/ForkPoolWorker-2] Traceback (most recent call last):
+[2022-07-11 10:45:49,682: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 1083, in emit
+    msg = self.format(record)
+[2022-07-11 10:45:49,682: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 927, in format
+    return fmt.format(record)
+[2022-07-11 10:45:49,683: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/utils/log.py", line 153, in format
+    msg = logging.Formatter.format(self, record)
+[2022-07-11 10:45:49,684: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 663, in format
+    record.message = record.getMessage()
+[2022-07-11 10:45:49,685: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 367, in getMessage
+    msg = msg % self.args
+[2022-07-11 10:45:49,685: WARNING/ForkPoolWorker-2] TypeError: not all arguments converted during string formatting
+[2022-07-11 10:45:49,686: WARNING/ForkPoolWorker-2] Call stack:
+[2022-07-11 10:45:49,689: WARNING/ForkPoolWorker-2] File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2022-07-11 10:45:49,689: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/__main__.py", line 16, in main
+    _main()
+[2022-07-11 10:45:49,690: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 322, in main
+    cmd.execute_from_commandline(argv)
+[2022-07-11 10:45:49,690: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 499, in execute_from_commandline
+    super(CeleryCommand, self).execute_from_commandline(argv)))
+[2022-07-11 10:45:49,691: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 305, in execute_from_commandline
+    return self.handle_argv(self.prog_name, argv[1:])
+[2022-07-11 10:45:49,692: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 491, in handle_argv
+    return self.execute(command, argv)
+[2022-07-11 10:45:49,692: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 415, in execute
+    return cls(
+[2022-07-11 10:45:49,693: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 223, in run_from_argv
+    return self(*args, **options)
+[2022-07-11 10:45:49,693: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 253, in __call__
+    ret = self.run(*args, **kwargs)
+[2022-07-11 10:45:49,694: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 259, in run
+    worker.start()
+[2022-07-11 10:45:49,694: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/worker/worker.py", line 208, in start
+    self.blueprint.start(self)
+[2022-07-11 10:45:49,695: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+[2022-07-11 10:45:49,696: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 369, in start
+    return self.obj.start()
+[2022-07-11 10:45:49,697: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/base.py", line 132, in start
+    self.on_start()
+[2022-07-11 10:45:49,698: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/prefork.py", line 111, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2022-07-11 10:45:49,698: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 486, in __init__
+    super(AsynPool, self).__init__(processes, *args, **kwargs)
+[2022-07-11 10:45:49,699: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2022-07-11 10:45:49,700: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 503, in _create_worker_process
+    return super(AsynPool, self)._create_worker_process(i)
+[2022-07-11 10:45:49,700: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2022-07-11 10:45:49,701: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2022-07-11 10:45:49,702: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2022-07-11 10:45:49,702: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2022-07-11 10:45:49,703: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2022-07-11 10:45:49,704: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2022-07-11 10:45:49,704: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2022-07-11 10:45:49,705: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2022-07-11 10:45:49,706: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2022-07-11 10:45:49,707: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 611, in _fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2022-07-11 10:45:49,707: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 412, in trace_task
+    R = retval = fun(*args, **kwargs)
+[2022-07-11 10:45:49,708: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 704, in __protected_call__
+    return self.run(*args, **kwargs)
+[2022-07-11 10:45:49,709: WARNING/ForkPoolWorker-2] File "/usr/src/app/worker.py", line 43, in create_task
+    logging.error("Error: ", xx)
+[2022-07-11 10:45:49,709: WARNING/ForkPoolWorker-2] Message: 'Error: '
+Arguments: (TypeError("get_items() missing 1 required positional argument: 'db'"),)
+[2022-07-11 10:45:49,710: WARNING/ForkPoolWorker-2] ERROR:
+[2022-07-11 10:45:49,710: WARNING/ForkPoolWorker-2] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:45:49,714: INFO/ForkPoolWorker-2] Task create_task[7790ea06-5360-484b-8b86-711bfc073920] succeeded in 20.064006399999926s: True
+[2022-07-11 10:46:04,595: INFO/MainProcess] Received task: create_task[6f48724e-26dc-427c-8c6b-17090db84299]  
+[2022-07-11 10:46:06,504: INFO/MainProcess] Received task: create_task[268d46d8-8f4e-471e-9d78-1d2919a59bbc]  
+[2022-07-11 10:46:07,940: INFO/MainProcess] Received task: create_task[216b8e42-18a2-4b16-8ac3-1489007a2997]  
+[2022-07-11 10:46:08,683: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 10:46:08,686: WARNING/ForkPoolWorker-1] --- Logging error ---
+[2022-07-11 10:46:08,687: WARNING/ForkPoolWorker-1] Traceback (most recent call last):
+[2022-07-11 10:46:08,687: WARNING/ForkPoolWorker-1] File "/usr/src/app/worker.py", line 28, in create_task
+    items = db_crud.get_items()
+[2022-07-11 10:46:08,688: WARNING/ForkPoolWorker-1] TypeError: get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:46:08,689: WARNING/ForkPoolWorker-1] During handling of the above exception, another exception occurred:
+[2022-07-11 10:46:08,690: WARNING/ForkPoolWorker-1] Traceback (most recent call last):
+[2022-07-11 10:46:08,691: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 1083, in emit
+    msg = self.format(record)
+[2022-07-11 10:46:08,692: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 927, in format
+    return fmt.format(record)
+[2022-07-11 10:46:08,692: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/utils/log.py", line 153, in format
+    msg = logging.Formatter.format(self, record)
+[2022-07-11 10:46:08,693: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 663, in format
+    record.message = record.getMessage()
+[2022-07-11 10:46:08,693: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 367, in getMessage
+    msg = msg % self.args
+[2022-07-11 10:46:08,694: WARNING/ForkPoolWorker-1] TypeError: not all arguments converted during string formatting
+[2022-07-11 10:46:08,695: WARNING/ForkPoolWorker-1] Call stack:
+[2022-07-11 10:46:08,696: WARNING/ForkPoolWorker-1] File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2022-07-11 10:46:08,697: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/__main__.py", line 16, in main
+    _main()
+[2022-07-11 10:46:08,697: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 322, in main
+    cmd.execute_from_commandline(argv)
+[2022-07-11 10:46:08,698: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 499, in execute_from_commandline
+    super(CeleryCommand, self).execute_from_commandline(argv)))
+[2022-07-11 10:46:08,699: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 305, in execute_from_commandline
+    return self.handle_argv(self.prog_name, argv[1:])
+[2022-07-11 10:46:08,699: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 491, in handle_argv
+    return self.execute(command, argv)
+[2022-07-11 10:46:08,700: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 415, in execute
+    return cls(
+[2022-07-11 10:46:08,701: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 223, in run_from_argv
+    return self(*args, **options)
+[2022-07-11 10:46:08,701: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 253, in __call__
+    ret = self.run(*args, **kwargs)
+[2022-07-11 10:46:08,702: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 259, in run
+    worker.start()
+[2022-07-11 10:46:08,703: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/worker/worker.py", line 208, in start
+    self.blueprint.start(self)
+[2022-07-11 10:46:08,703: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+[2022-07-11 10:46:08,704: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 369, in start
+    return self.obj.start()
+[2022-07-11 10:46:08,705: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/base.py", line 132, in start
+    self.on_start()
+[2022-07-11 10:46:08,705: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/prefork.py", line 111, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2022-07-11 10:46:08,706: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 486, in __init__
+    super(AsynPool, self).__init__(processes, *args, **kwargs)
+[2022-07-11 10:46:08,706: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2022-07-11 10:46:08,707: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 503, in _create_worker_process
+    return super(AsynPool, self)._create_worker_process(i)
+[2022-07-11 10:46:08,708: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2022-07-11 10:46:08,708: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2022-07-11 10:46:08,709: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2022-07-11 10:46:08,710: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2022-07-11 10:46:08,710: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2022-07-11 10:46:08,711: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2022-07-11 10:46:08,711: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2022-07-11 10:46:08,712: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2022-07-11 10:46:08,713: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2022-07-11 10:46:08,713: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 611, in _fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2022-07-11 10:46:08,714: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 412, in trace_task
+    R = retval = fun(*args, **kwargs)
+[2022-07-11 10:46:08,714: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 704, in __protected_call__
+    return self.run(*args, **kwargs)
+[2022-07-11 10:46:08,715: WARNING/ForkPoolWorker-1] File "/usr/src/app/worker.py", line 43, in create_task
+    logging.error("Error: ", xx)
+[2022-07-11 10:46:08,716: WARNING/ForkPoolWorker-1] Message: 'Error: '
+Arguments: (TypeError("get_items() missing 1 required positional argument: 'db'"),)
+[2022-07-11 10:46:08,716: WARNING/ForkPoolWorker-1] ERROR:
+[2022-07-11 10:46:08,717: WARNING/ForkPoolWorker-1] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:46:08,718: INFO/ForkPoolWorker-1] Task create_task[e5f68000-e345-498b-9ff5-5bee6297a973] succeeded in 30.041996799998742s: True
+[2022-07-11 10:46:14,611: INFO/ForkPoolWorker-2] SESSION CREATE ---- 
+[2022-07-11 10:46:14,618: WARNING/ForkPoolWorker-2] --- Logging error ---
+[2022-07-11 10:46:14,622: WARNING/ForkPoolWorker-2] Traceback (most recent call last):
+[2022-07-11 10:46:14,625: WARNING/ForkPoolWorker-2] File "/usr/src/app/worker.py", line 28, in create_task
+    items = db_crud.get_items()
+[2022-07-11 10:46:14,629: WARNING/ForkPoolWorker-2] TypeError: get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:46:14,631: WARNING/ForkPoolWorker-2] During handling of the above exception, another exception occurred:
+[2022-07-11 10:46:14,633: WARNING/ForkPoolWorker-2] Traceback (most recent call last):
+[2022-07-11 10:46:14,635: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 1083, in emit
+    msg = self.format(record)
+[2022-07-11 10:46:14,636: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 927, in format
+    return fmt.format(record)
+[2022-07-11 10:46:14,637: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/utils/log.py", line 153, in format
+    msg = logging.Formatter.format(self, record)
+[2022-07-11 10:46:14,638: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 663, in format
+    record.message = record.getMessage()
+[2022-07-11 10:46:14,638: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 367, in getMessage
+    msg = msg % self.args
+[2022-07-11 10:46:14,639: WARNING/ForkPoolWorker-2] TypeError: not all arguments converted during string formatting
+[2022-07-11 10:46:14,640: WARNING/ForkPoolWorker-2] Call stack:
+[2022-07-11 10:46:14,641: WARNING/ForkPoolWorker-2] File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2022-07-11 10:46:14,641: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/__main__.py", line 16, in main
+    _main()
+[2022-07-11 10:46:14,642: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 322, in main
+    cmd.execute_from_commandline(argv)
+[2022-07-11 10:46:14,643: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 499, in execute_from_commandline
+    super(CeleryCommand, self).execute_from_commandline(argv)))
+[2022-07-11 10:46:14,644: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 305, in execute_from_commandline
+    return self.handle_argv(self.prog_name, argv[1:])
+[2022-07-11 10:46:14,644: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 491, in handle_argv
+    return self.execute(command, argv)
+[2022-07-11 10:46:14,645: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 415, in execute
+    return cls(
+[2022-07-11 10:46:14,646: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 223, in run_from_argv
+    return self(*args, **options)
+[2022-07-11 10:46:14,646: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 253, in __call__
+    ret = self.run(*args, **kwargs)
+[2022-07-11 10:46:14,647: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 259, in run
+    worker.start()
+[2022-07-11 10:46:14,648: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/worker/worker.py", line 208, in start
+    self.blueprint.start(self)
+[2022-07-11 10:46:14,649: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+[2022-07-11 10:46:14,650: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 369, in start
+    return self.obj.start()
+[2022-07-11 10:46:14,650: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/base.py", line 132, in start
+    self.on_start()
+[2022-07-11 10:46:14,651: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/prefork.py", line 111, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2022-07-11 10:46:14,651: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 486, in __init__
+    super(AsynPool, self).__init__(processes, *args, **kwargs)
+[2022-07-11 10:46:14,652: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2022-07-11 10:46:14,653: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 503, in _create_worker_process
+    return super(AsynPool, self)._create_worker_process(i)
+[2022-07-11 10:46:14,654: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2022-07-11 10:46:14,654: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2022-07-11 10:46:14,655: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2022-07-11 10:46:14,656: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2022-07-11 10:46:14,656: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2022-07-11 10:46:14,657: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2022-07-11 10:46:14,658: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2022-07-11 10:46:14,658: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2022-07-11 10:46:14,659: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2022-07-11 10:46:14,660: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 611, in _fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2022-07-11 10:46:14,660: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 412, in trace_task
+    R = retval = fun(*args, **kwargs)
+[2022-07-11 10:46:14,661: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 704, in __protected_call__
+    return self.run(*args, **kwargs)
+[2022-07-11 10:46:14,661: WARNING/ForkPoolWorker-2] File "/usr/src/app/worker.py", line 43, in create_task
+    logging.error("Error: ", xx)
+[2022-07-11 10:46:14,662: WARNING/ForkPoolWorker-2] Message: 'Error: '
+Arguments: (TypeError("get_items() missing 1 required positional argument: 'db'"),)
+[2022-07-11 10:46:14,663: WARNING/ForkPoolWorker-2] ERROR:
+[2022-07-11 10:46:14,663: WARNING/ForkPoolWorker-2] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:46:14,665: INFO/ForkPoolWorker-2] Task create_task[6f48724e-26dc-427c-8c6b-17090db84299] succeeded in 10.064492399998926s: True
+[2022-07-11 10:46:28,725: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 10:46:28,728: WARNING/ForkPoolWorker-1] --- Logging error ---
+[2022-07-11 10:46:28,729: WARNING/ForkPoolWorker-1] Traceback (most recent call last):
+[2022-07-11 10:46:28,730: WARNING/ForkPoolWorker-1] File "/usr/src/app/worker.py", line 28, in create_task
+    items = db_crud.get_items()
+[2022-07-11 10:46:28,731: WARNING/ForkPoolWorker-1] TypeError: get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:46:28,732: WARNING/ForkPoolWorker-1] During handling of the above exception, another exception occurred:
+[2022-07-11 10:46:28,733: WARNING/ForkPoolWorker-1] Traceback (most recent call last):
+[2022-07-11 10:46:28,733: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 1083, in emit
+    msg = self.format(record)
+[2022-07-11 10:46:28,735: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 927, in format
+    return fmt.format(record)
+[2022-07-11 10:46:28,735: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/utils/log.py", line 153, in format
+    msg = logging.Formatter.format(self, record)
+[2022-07-11 10:46:28,736: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 663, in format
+    record.message = record.getMessage()
+[2022-07-11 10:46:28,736: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 367, in getMessage
+    msg = msg % self.args
+[2022-07-11 10:46:28,737: WARNING/ForkPoolWorker-1] TypeError: not all arguments converted during string formatting
+[2022-07-11 10:46:28,738: WARNING/ForkPoolWorker-1] Call stack:
+[2022-07-11 10:46:28,739: WARNING/ForkPoolWorker-1] File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2022-07-11 10:46:28,739: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/__main__.py", line 16, in main
+    _main()
+[2022-07-11 10:46:28,740: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 322, in main
+    cmd.execute_from_commandline(argv)
+[2022-07-11 10:46:28,741: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 499, in execute_from_commandline
+    super(CeleryCommand, self).execute_from_commandline(argv)))
+[2022-07-11 10:46:28,741: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 305, in execute_from_commandline
+    return self.handle_argv(self.prog_name, argv[1:])
+[2022-07-11 10:46:28,742: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 491, in handle_argv
+    return self.execute(command, argv)
+[2022-07-11 10:46:28,743: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 415, in execute
+    return cls(
+[2022-07-11 10:46:28,743: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 223, in run_from_argv
+    return self(*args, **options)
+[2022-07-11 10:46:28,744: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 253, in __call__
+    ret = self.run(*args, **kwargs)
+[2022-07-11 10:46:28,744: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 259, in run
+    worker.start()
+[2022-07-11 10:46:28,745: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/worker/worker.py", line 208, in start
+    self.blueprint.start(self)
+[2022-07-11 10:46:28,746: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+[2022-07-11 10:46:28,746: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 369, in start
+    return self.obj.start()
+[2022-07-11 10:46:28,747: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/base.py", line 132, in start
+    self.on_start()
+[2022-07-11 10:46:28,748: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/prefork.py", line 111, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2022-07-11 10:46:28,748: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 486, in __init__
+    super(AsynPool, self).__init__(processes, *args, **kwargs)
+[2022-07-11 10:46:28,749: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2022-07-11 10:46:28,749: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 503, in _create_worker_process
+    return super(AsynPool, self)._create_worker_process(i)
+[2022-07-11 10:46:28,750: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2022-07-11 10:46:28,751: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2022-07-11 10:46:28,752: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2022-07-11 10:46:28,753: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2022-07-11 10:46:28,753: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2022-07-11 10:46:28,754: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2022-07-11 10:46:28,755: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2022-07-11 10:46:28,756: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2022-07-11 10:46:28,756: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2022-07-11 10:46:28,757: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 611, in _fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2022-07-11 10:46:28,758: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 412, in trace_task
+    R = retval = fun(*args, **kwargs)
+[2022-07-11 10:46:28,758: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 704, in __protected_call__
+    return self.run(*args, **kwargs)
+[2022-07-11 10:46:28,759: WARNING/ForkPoolWorker-1] File "/usr/src/app/worker.py", line 43, in create_task
+    logging.error("Error: ", xx)
+[2022-07-11 10:46:28,760: WARNING/ForkPoolWorker-1] Message: 'Error: '
+Arguments: (TypeError("get_items() missing 1 required positional argument: 'db'"),)
+[2022-07-11 10:46:28,761: WARNING/ForkPoolWorker-1] ERROR:
+[2022-07-11 10:46:28,761: WARNING/ForkPoolWorker-1] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:46:28,763: INFO/ForkPoolWorker-1] Task create_task[268d46d8-8f4e-471e-9d78-1d2919a59bbc] succeeded in 20.042225099999996s: True
+[2022-07-11 10:46:44,672: INFO/ForkPoolWorker-2] SESSION CREATE ---- 
+[2022-07-11 10:46:44,675: WARNING/ForkPoolWorker-2] --- Logging error ---
+[2022-07-11 10:46:44,677: WARNING/ForkPoolWorker-2] Traceback (most recent call last):
+[2022-07-11 10:46:44,678: WARNING/ForkPoolWorker-2] File "/usr/src/app/worker.py", line 28, in create_task
+    items = db_crud.get_items()
+[2022-07-11 10:46:44,679: WARNING/ForkPoolWorker-2] TypeError: get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:46:44,680: WARNING/ForkPoolWorker-2] During handling of the above exception, another exception occurred:
+[2022-07-11 10:46:44,681: WARNING/ForkPoolWorker-2] Traceback (most recent call last):
+[2022-07-11 10:46:44,682: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 1083, in emit
+    msg = self.format(record)
+[2022-07-11 10:46:44,682: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 927, in format
+    return fmt.format(record)
+[2022-07-11 10:46:44,683: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/utils/log.py", line 153, in format
+    msg = logging.Formatter.format(self, record)
+[2022-07-11 10:46:44,684: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 663, in format
+    record.message = record.getMessage()
+[2022-07-11 10:46:44,685: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 367, in getMessage
+    msg = msg % self.args
+[2022-07-11 10:46:44,685: WARNING/ForkPoolWorker-2] TypeError: not all arguments converted during string formatting
+[2022-07-11 10:46:44,686: WARNING/ForkPoolWorker-2] Call stack:
+[2022-07-11 10:46:44,687: WARNING/ForkPoolWorker-2] File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2022-07-11 10:46:44,687: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/__main__.py", line 16, in main
+    _main()
+[2022-07-11 10:46:44,688: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 322, in main
+    cmd.execute_from_commandline(argv)
+[2022-07-11 10:46:44,689: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 499, in execute_from_commandline
+    super(CeleryCommand, self).execute_from_commandline(argv)))
+[2022-07-11 10:46:44,689: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 305, in execute_from_commandline
+    return self.handle_argv(self.prog_name, argv[1:])
+[2022-07-11 10:46:44,690: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 491, in handle_argv
+    return self.execute(command, argv)
+[2022-07-11 10:46:44,691: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 415, in execute
+    return cls(
+[2022-07-11 10:46:44,691: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 223, in run_from_argv
+    return self(*args, **options)
+[2022-07-11 10:46:44,692: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 253, in __call__
+    ret = self.run(*args, **kwargs)
+[2022-07-11 10:46:44,693: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 259, in run
+    worker.start()
+[2022-07-11 10:46:44,693: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/worker/worker.py", line 208, in start
+    self.blueprint.start(self)
+[2022-07-11 10:46:44,694: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+[2022-07-11 10:46:44,695: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 369, in start
+    return self.obj.start()
+[2022-07-11 10:46:44,695: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/base.py", line 132, in start
+    self.on_start()
+[2022-07-11 10:46:44,696: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/prefork.py", line 111, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2022-07-11 10:46:44,696: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 486, in __init__
+    super(AsynPool, self).__init__(processes, *args, **kwargs)
+[2022-07-11 10:46:44,697: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2022-07-11 10:46:44,698: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 503, in _create_worker_process
+    return super(AsynPool, self)._create_worker_process(i)
+[2022-07-11 10:46:44,698: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2022-07-11 10:46:44,699: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2022-07-11 10:46:44,700: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2022-07-11 10:46:44,700: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2022-07-11 10:46:44,701: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2022-07-11 10:46:44,702: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2022-07-11 10:46:44,702: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2022-07-11 10:46:44,703: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2022-07-11 10:46:44,704: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2022-07-11 10:46:44,705: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 611, in _fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2022-07-11 10:46:44,705: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 412, in trace_task
+    R = retval = fun(*args, **kwargs)
+[2022-07-11 10:46:44,706: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 704, in __protected_call__
+    return self.run(*args, **kwargs)
+[2022-07-11 10:46:44,707: WARNING/ForkPoolWorker-2] File "/usr/src/app/worker.py", line 43, in create_task
+    logging.error("Error: ", xx)
+[2022-07-11 10:46:44,707: WARNING/ForkPoolWorker-2] Message: 'Error: '
+Arguments: (TypeError("get_items() missing 1 required positional argument: 'db'"),)
+[2022-07-11 10:46:44,708: WARNING/ForkPoolWorker-2] ERROR:
+[2022-07-11 10:46:44,708: WARNING/ForkPoolWorker-2] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 10:46:44,710: INFO/ForkPoolWorker-2] Task create_task[216b8e42-18a2-4b16-8ac3-1489007a2997] succeeded in 30.0429079000005s: True
+[2022-07-11 13:14:06,593: INFO/MainProcess] Received task: create_task[afb1c5b3-8a85-41be-9541-22cef8e8816c]  
+[2022-07-11 13:14:07,387: INFO/MainProcess] Received task: create_task[c302475c-b52f-455b-afb8-9e6b584d44c5]  
+[2022-07-11 13:14:08,183: INFO/MainProcess] Received task: create_task[2422a04e-93a1-46eb-a201-0b78ae237d4b]  
+[2022-07-11 13:14:16,599: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 13:14:16,601: WARNING/ForkPoolWorker-1] --- Logging error ---
+[2022-07-11 13:14:16,602: WARNING/ForkPoolWorker-1] Traceback (most recent call last):
+[2022-07-11 13:14:16,604: WARNING/ForkPoolWorker-1] File "/usr/src/app/worker.py", line 28, in create_task
+    items = db_crud.get_items()
+[2022-07-11 13:14:16,605: WARNING/ForkPoolWorker-1] TypeError: get_items() missing 1 required positional argument: 'db'
+[2022-07-11 13:14:16,606: WARNING/ForkPoolWorker-1] During handling of the above exception, another exception occurred:
+[2022-07-11 13:14:16,606: WARNING/ForkPoolWorker-1] Traceback (most recent call last):
+[2022-07-11 13:14:16,607: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 1083, in emit
+    msg = self.format(record)
+[2022-07-11 13:14:16,608: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 927, in format
+    return fmt.format(record)
+[2022-07-11 13:14:16,608: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/utils/log.py", line 153, in format
+    msg = logging.Formatter.format(self, record)
+[2022-07-11 13:14:16,609: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 663, in format
+    record.message = record.getMessage()
+[2022-07-11 13:14:16,610: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 367, in getMessage
+    msg = msg % self.args
+[2022-07-11 13:14:16,610: WARNING/ForkPoolWorker-1] TypeError: not all arguments converted during string formatting
+[2022-07-11 13:14:16,612: WARNING/ForkPoolWorker-1] Call stack:
+[2022-07-11 13:14:16,612: WARNING/ForkPoolWorker-1] File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2022-07-11 13:14:16,613: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/__main__.py", line 16, in main
+    _main()
+[2022-07-11 13:14:16,614: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 322, in main
+    cmd.execute_from_commandline(argv)
+[2022-07-11 13:14:16,615: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 499, in execute_from_commandline
+    super(CeleryCommand, self).execute_from_commandline(argv)))
+[2022-07-11 13:14:16,615: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 305, in execute_from_commandline
+    return self.handle_argv(self.prog_name, argv[1:])
+[2022-07-11 13:14:16,616: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 491, in handle_argv
+    return self.execute(command, argv)
+[2022-07-11 13:14:16,617: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 415, in execute
+    return cls(
+[2022-07-11 13:14:16,617: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 223, in run_from_argv
+    return self(*args, **options)
+[2022-07-11 13:14:16,618: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 253, in __call__
+    ret = self.run(*args, **kwargs)
+[2022-07-11 13:14:16,618: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 259, in run
+    worker.start()
+[2022-07-11 13:14:16,619: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/worker/worker.py", line 208, in start
+    self.blueprint.start(self)
+[2022-07-11 13:14:16,620: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+[2022-07-11 13:14:16,621: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 369, in start
+    return self.obj.start()
+[2022-07-11 13:14:16,621: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/base.py", line 132, in start
+    self.on_start()
+[2022-07-11 13:14:16,622: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/prefork.py", line 111, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2022-07-11 13:14:16,623: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 486, in __init__
+    super(AsynPool, self).__init__(processes, *args, **kwargs)
+[2022-07-11 13:14:16,623: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2022-07-11 13:14:16,624: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 503, in _create_worker_process
+    return super(AsynPool, self)._create_worker_process(i)
+[2022-07-11 13:14:16,625: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2022-07-11 13:14:16,625: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2022-07-11 13:14:16,626: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2022-07-11 13:14:16,627: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2022-07-11 13:14:16,627: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2022-07-11 13:14:16,628: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2022-07-11 13:14:16,629: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2022-07-11 13:14:16,629: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2022-07-11 13:14:16,630: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2022-07-11 13:14:16,631: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 611, in _fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2022-07-11 13:14:16,631: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 412, in trace_task
+    R = retval = fun(*args, **kwargs)
+[2022-07-11 13:14:16,632: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 704, in __protected_call__
+    return self.run(*args, **kwargs)
+[2022-07-11 13:14:16,633: WARNING/ForkPoolWorker-1] File "/usr/src/app/worker.py", line 43, in create_task
+    logging.error("Error: ", xx)
+[2022-07-11 13:14:16,633: WARNING/ForkPoolWorker-1] Message: 'Error: '
+Arguments: (TypeError("get_items() missing 1 required positional argument: 'db'"),)
+[2022-07-11 13:14:16,634: WARNING/ForkPoolWorker-1] ERROR:
+[2022-07-11 13:14:16,634: WARNING/ForkPoolWorker-1] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 13:14:16,636: INFO/ForkPoolWorker-1] Task create_task[afb1c5b3-8a85-41be-9541-22cef8e8816c] succeeded in 10.039103700000851s: True
+[2022-07-11 13:14:27,408: INFO/ForkPoolWorker-2] SESSION CREATE ---- 
+[2022-07-11 13:14:27,411: WARNING/ForkPoolWorker-2] --- Logging error ---
+[2022-07-11 13:14:27,412: WARNING/ForkPoolWorker-2] Traceback (most recent call last):
+[2022-07-11 13:14:27,414: WARNING/ForkPoolWorker-2] File "/usr/src/app/worker.py", line 28, in create_task
+    items = db_crud.get_items()
+[2022-07-11 13:14:27,415: WARNING/ForkPoolWorker-2] TypeError: get_items() missing 1 required positional argument: 'db'
+[2022-07-11 13:14:27,417: WARNING/ForkPoolWorker-2] During handling of the above exception, another exception occurred:
+[2022-07-11 13:14:27,418: WARNING/ForkPoolWorker-2] Traceback (most recent call last):
+[2022-07-11 13:14:27,419: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 1083, in emit
+    msg = self.format(record)
+[2022-07-11 13:14:27,420: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 927, in format
+    return fmt.format(record)
+[2022-07-11 13:14:27,421: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/utils/log.py", line 153, in format
+    msg = logging.Formatter.format(self, record)
+[2022-07-11 13:14:27,422: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 663, in format
+    record.message = record.getMessage()
+[2022-07-11 13:14:27,423: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 367, in getMessage
+    msg = msg % self.args
+[2022-07-11 13:14:27,424: WARNING/ForkPoolWorker-2] TypeError: not all arguments converted during string formatting
+[2022-07-11 13:14:27,424: WARNING/ForkPoolWorker-2] Call stack:
+[2022-07-11 13:14:27,426: WARNING/ForkPoolWorker-2] File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2022-07-11 13:14:27,426: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/__main__.py", line 16, in main
+    _main()
+[2022-07-11 13:14:27,427: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 322, in main
+    cmd.execute_from_commandline(argv)
+[2022-07-11 13:14:27,428: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 499, in execute_from_commandline
+    super(CeleryCommand, self).execute_from_commandline(argv)))
+[2022-07-11 13:14:27,429: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 305, in execute_from_commandline
+    return self.handle_argv(self.prog_name, argv[1:])
+[2022-07-11 13:14:27,430: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 491, in handle_argv
+    return self.execute(command, argv)
+[2022-07-11 13:14:27,431: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 415, in execute
+    return cls(
+[2022-07-11 13:14:27,432: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 223, in run_from_argv
+    return self(*args, **options)
+[2022-07-11 13:14:27,433: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 253, in __call__
+    ret = self.run(*args, **kwargs)
+[2022-07-11 13:14:27,434: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 259, in run
+    worker.start()
+[2022-07-11 13:14:27,435: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/worker/worker.py", line 208, in start
+    self.blueprint.start(self)
+[2022-07-11 13:14:27,436: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+[2022-07-11 13:14:27,437: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 369, in start
+    return self.obj.start()
+[2022-07-11 13:14:27,438: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/base.py", line 132, in start
+    self.on_start()
+[2022-07-11 13:14:27,439: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/prefork.py", line 111, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2022-07-11 13:14:27,440: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 486, in __init__
+    super(AsynPool, self).__init__(processes, *args, **kwargs)
+[2022-07-11 13:14:27,441: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2022-07-11 13:14:27,442: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 503, in _create_worker_process
+    return super(AsynPool, self)._create_worker_process(i)
+[2022-07-11 13:14:27,443: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2022-07-11 13:14:27,444: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2022-07-11 13:14:27,445: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2022-07-11 13:14:27,446: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2022-07-11 13:14:27,447: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2022-07-11 13:14:27,448: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2022-07-11 13:14:27,448: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2022-07-11 13:14:27,449: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2022-07-11 13:14:27,451: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2022-07-11 13:14:27,452: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 611, in _fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2022-07-11 13:14:27,453: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 412, in trace_task
+    R = retval = fun(*args, **kwargs)
+[2022-07-11 13:14:27,454: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 704, in __protected_call__
+    return self.run(*args, **kwargs)
+[2022-07-11 13:14:27,455: WARNING/ForkPoolWorker-2] File "/usr/src/app/worker.py", line 43, in create_task
+    logging.error("Error: ", xx)
+[2022-07-11 13:14:27,456: WARNING/ForkPoolWorker-2] Message: 'Error: '
+Arguments: (TypeError("get_items() missing 1 required positional argument: 'db'"),)
+[2022-07-11 13:14:27,457: WARNING/ForkPoolWorker-2] ERROR:
+[2022-07-11 13:14:27,458: WARNING/ForkPoolWorker-2] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 13:14:27,460: INFO/ForkPoolWorker-2] Task create_task[c302475c-b52f-455b-afb8-9e6b584d44c5] succeeded in 20.06597739999779s: True
+[2022-07-11 13:14:46,547: INFO/MainProcess] Received task: create_task[b517d95b-ed56-408c-bc6d-b673a10c9b34]  
+[2022-07-11 13:14:46,668: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 13:14:46,671: WARNING/ForkPoolWorker-1] --- Logging error ---
+[2022-07-11 13:14:46,675: WARNING/ForkPoolWorker-1] Traceback (most recent call last):
+[2022-07-11 13:14:46,676: WARNING/ForkPoolWorker-1] File "/usr/src/app/worker.py", line 28, in create_task
+    # items = db_crud.get_items()
+[2022-07-11 13:14:46,677: WARNING/ForkPoolWorker-1] TypeError: get_items() missing 1 required positional argument: 'db'
+[2022-07-11 13:14:46,677: WARNING/ForkPoolWorker-1] During handling of the above exception, another exception occurred:
+[2022-07-11 13:14:46,678: WARNING/ForkPoolWorker-1] Traceback (most recent call last):
+[2022-07-11 13:14:46,679: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 1083, in emit
+    msg = self.format(record)
+[2022-07-11 13:14:46,680: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 927, in format
+    return fmt.format(record)
+[2022-07-11 13:14:46,681: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/utils/log.py", line 153, in format
+    msg = logging.Formatter.format(self, record)
+[2022-07-11 13:14:46,682: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 663, in format
+    record.message = record.getMessage()
+[2022-07-11 13:14:46,682: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 367, in getMessage
+    msg = msg % self.args
+[2022-07-11 13:14:46,683: WARNING/ForkPoolWorker-1] TypeError: not all arguments converted during string formatting
+[2022-07-11 13:14:46,684: WARNING/ForkPoolWorker-1] Call stack:
+[2022-07-11 13:14:46,685: WARNING/ForkPoolWorker-1] File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2022-07-11 13:14:46,686: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/__main__.py", line 16, in main
+    _main()
+[2022-07-11 13:14:46,687: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 322, in main
+    cmd.execute_from_commandline(argv)
+[2022-07-11 13:14:46,687: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 499, in execute_from_commandline
+    super(CeleryCommand, self).execute_from_commandline(argv)))
+[2022-07-11 13:14:46,688: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 305, in execute_from_commandline
+    return self.handle_argv(self.prog_name, argv[1:])
+[2022-07-11 13:14:46,689: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 491, in handle_argv
+    return self.execute(command, argv)
+[2022-07-11 13:14:46,690: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 415, in execute
+    return cls(
+[2022-07-11 13:14:46,690: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 223, in run_from_argv
+    return self(*args, **options)
+[2022-07-11 13:14:46,691: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 253, in __call__
+    ret = self.run(*args, **kwargs)
+[2022-07-11 13:14:46,692: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 259, in run
+    worker.start()
+[2022-07-11 13:14:46,692: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/worker/worker.py", line 208, in start
+    self.blueprint.start(self)
+[2022-07-11 13:14:46,693: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+[2022-07-11 13:14:46,694: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 369, in start
+    return self.obj.start()
+[2022-07-11 13:14:46,695: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/base.py", line 132, in start
+    self.on_start()
+[2022-07-11 13:14:46,696: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/prefork.py", line 111, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2022-07-11 13:14:46,696: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 486, in __init__
+    super(AsynPool, self).__init__(processes, *args, **kwargs)
+[2022-07-11 13:14:46,697: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2022-07-11 13:14:46,698: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 503, in _create_worker_process
+    return super(AsynPool, self)._create_worker_process(i)
+[2022-07-11 13:14:46,698: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2022-07-11 13:14:46,699: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2022-07-11 13:14:46,700: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2022-07-11 13:14:46,701: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2022-07-11 13:14:46,702: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2022-07-11 13:14:46,703: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2022-07-11 13:14:46,704: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2022-07-11 13:14:46,705: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2022-07-11 13:14:46,706: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2022-07-11 13:14:46,707: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 611, in _fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2022-07-11 13:14:46,708: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 412, in trace_task
+    R = retval = fun(*args, **kwargs)
+[2022-07-11 13:14:46,708: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 704, in __protected_call__
+    return self.run(*args, **kwargs)
+[2022-07-11 13:14:46,709: WARNING/ForkPoolWorker-1] File "/usr/src/app/worker.py", line 43, in create_task
+    logging.error("Error: ", xx)
+[2022-07-11 13:14:46,710: WARNING/ForkPoolWorker-1] Message: 'Error: '
+Arguments: (TypeError("get_items() missing 1 required positional argument: 'db'"),)
+[2022-07-11 13:14:46,711: WARNING/ForkPoolWorker-1] ERROR:
+[2022-07-11 13:14:46,711: WARNING/ForkPoolWorker-1] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 13:14:46,713: INFO/ForkPoolWorker-1] Task create_task[2422a04e-93a1-46eb-a201-0b78ae237d4b] succeeded in 30.074628300000768s: True
+[2022-07-11 13:14:47,263: INFO/MainProcess] Received task: create_task[a815c65f-560c-4e96-965f-9a790b9ce7e1]  
+[2022-07-11 13:14:48,044: INFO/MainProcess] Received task: create_task[b6977b11-e506-4ed4-b2c2-fcbe16f6ffe0]  
+[2022-07-11 13:14:56,560: INFO/ForkPoolWorker-2] SESSION CREATE ---- 
+[2022-07-11 13:14:56,565: WARNING/ForkPoolWorker-2] --- Logging error ---
+[2022-07-11 13:14:56,577: WARNING/ForkPoolWorker-2] Traceback (most recent call last):
+[2022-07-11 13:14:56,580: WARNING/ForkPoolWorker-2] File "/usr/src/app/worker.py", line 28, in create_task
+    # items = db_crud.get_items()
+[2022-07-11 13:14:56,583: WARNING/ForkPoolWorker-2] TypeError: get_items() missing 1 required positional argument: 'db'
+[2022-07-11 13:14:56,585: WARNING/ForkPoolWorker-2] During handling of the above exception, another exception occurred:
+[2022-07-11 13:14:56,587: WARNING/ForkPoolWorker-2] Traceback (most recent call last):
+[2022-07-11 13:14:56,589: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 1083, in emit
+    msg = self.format(record)
+[2022-07-11 13:14:56,590: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 927, in format
+    return fmt.format(record)
+[2022-07-11 13:14:56,591: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/utils/log.py", line 153, in format
+    msg = logging.Formatter.format(self, record)
+[2022-07-11 13:14:56,592: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 663, in format
+    record.message = record.getMessage()
+[2022-07-11 13:14:56,592: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 367, in getMessage
+    msg = msg % self.args
+[2022-07-11 13:14:56,593: WARNING/ForkPoolWorker-2] TypeError: not all arguments converted during string formatting
+[2022-07-11 13:14:56,594: WARNING/ForkPoolWorker-2] Call stack:
+[2022-07-11 13:14:56,595: WARNING/ForkPoolWorker-2] File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2022-07-11 13:14:56,596: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/__main__.py", line 16, in main
+    _main()
+[2022-07-11 13:14:56,596: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 322, in main
+    cmd.execute_from_commandline(argv)
+[2022-07-11 13:14:56,597: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 499, in execute_from_commandline
+    super(CeleryCommand, self).execute_from_commandline(argv)))
+[2022-07-11 13:14:56,598: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 305, in execute_from_commandline
+    return self.handle_argv(self.prog_name, argv[1:])
+[2022-07-11 13:14:56,598: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 491, in handle_argv
+    return self.execute(command, argv)
+[2022-07-11 13:14:56,599: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 415, in execute
+    return cls(
+[2022-07-11 13:14:56,600: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 223, in run_from_argv
+    return self(*args, **options)
+[2022-07-11 13:14:56,600: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 253, in __call__
+    ret = self.run(*args, **kwargs)
+[2022-07-11 13:14:56,602: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 259, in run
+    worker.start()
+[2022-07-11 13:14:56,602: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/worker/worker.py", line 208, in start
+    self.blueprint.start(self)
+[2022-07-11 13:14:56,603: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+[2022-07-11 13:14:56,603: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 369, in start
+    return self.obj.start()
+[2022-07-11 13:14:56,604: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/base.py", line 132, in start
+    self.on_start()
+[2022-07-11 13:14:56,605: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/prefork.py", line 111, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2022-07-11 13:14:56,605: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 486, in __init__
+    super(AsynPool, self).__init__(processes, *args, **kwargs)
+[2022-07-11 13:14:56,606: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2022-07-11 13:14:56,607: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 503, in _create_worker_process
+    return super(AsynPool, self)._create_worker_process(i)
+[2022-07-11 13:14:56,610: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2022-07-11 13:14:56,610: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2022-07-11 13:14:56,611: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2022-07-11 13:14:56,611: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2022-07-11 13:14:56,612: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2022-07-11 13:14:56,613: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2022-07-11 13:14:56,613: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2022-07-11 13:14:56,614: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2022-07-11 13:14:56,615: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2022-07-11 13:14:56,615: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 611, in _fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2022-07-11 13:14:56,616: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 412, in trace_task
+    R = retval = fun(*args, **kwargs)
+[2022-07-11 13:14:56,617: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 704, in __protected_call__
+    return self.run(*args, **kwargs)
+[2022-07-11 13:14:56,618: WARNING/ForkPoolWorker-2] File "/usr/src/app/worker.py", line 43, in create_task
+    logging.error("Error: ", xx)
+[2022-07-11 13:14:56,618: WARNING/ForkPoolWorker-2] Message: 'Error: '
+Arguments: (TypeError("get_items() missing 1 required positional argument: 'db'"),)
+[2022-07-11 13:14:56,619: WARNING/ForkPoolWorker-2] ERROR:
+[2022-07-11 13:14:56,619: WARNING/ForkPoolWorker-2] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 13:14:56,621: INFO/ForkPoolWorker-2] Task create_task[b517d95b-ed56-408c-bc6d-b673a10c9b34] succeeded in 10.071126999999251s: True
+[2022-07-11 13:15:07,277: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 13:15:07,286: WARNING/ForkPoolWorker-1] --- Logging error ---
+[2022-07-11 13:15:07,288: WARNING/ForkPoolWorker-1] Traceback (most recent call last):
+[2022-07-11 13:15:07,291: WARNING/ForkPoolWorker-1] File "/usr/src/app/worker.py", line 28, in create_task
+    # items = db_crud.get_items()
+[2022-07-11 13:15:07,294: WARNING/ForkPoolWorker-1] TypeError: get_items() missing 1 required positional argument: 'db'
+[2022-07-11 13:15:07,296: WARNING/ForkPoolWorker-1] During handling of the above exception, another exception occurred:
+[2022-07-11 13:15:07,297: WARNING/ForkPoolWorker-1] Traceback (most recent call last):
+[2022-07-11 13:15:07,299: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 1083, in emit
+    msg = self.format(record)
+[2022-07-11 13:15:07,300: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 927, in format
+    return fmt.format(record)
+[2022-07-11 13:15:07,302: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/utils/log.py", line 153, in format
+    msg = logging.Formatter.format(self, record)
+[2022-07-11 13:15:07,303: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 663, in format
+    record.message = record.getMessage()
+[2022-07-11 13:15:07,304: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 367, in getMessage
+    msg = msg % self.args
+[2022-07-11 13:15:07,305: WARNING/ForkPoolWorker-1] TypeError: not all arguments converted during string formatting
+[2022-07-11 13:15:07,306: WARNING/ForkPoolWorker-1] Call stack:
+[2022-07-11 13:15:07,307: WARNING/ForkPoolWorker-1] File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2022-07-11 13:15:07,308: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/__main__.py", line 16, in main
+    _main()
+[2022-07-11 13:15:07,309: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 322, in main
+    cmd.execute_from_commandline(argv)
+[2022-07-11 13:15:07,309: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 499, in execute_from_commandline
+    super(CeleryCommand, self).execute_from_commandline(argv)))
+[2022-07-11 13:15:07,310: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 305, in execute_from_commandline
+    return self.handle_argv(self.prog_name, argv[1:])
+[2022-07-11 13:15:07,311: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 491, in handle_argv
+    return self.execute(command, argv)
+[2022-07-11 13:15:07,311: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 415, in execute
+    return cls(
+[2022-07-11 13:15:07,312: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 223, in run_from_argv
+    return self(*args, **options)
+[2022-07-11 13:15:07,313: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 253, in __call__
+    ret = self.run(*args, **kwargs)
+[2022-07-11 13:15:07,313: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 259, in run
+    worker.start()
+[2022-07-11 13:15:07,314: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/worker/worker.py", line 208, in start
+    self.blueprint.start(self)
+[2022-07-11 13:15:07,315: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+[2022-07-11 13:15:07,315: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 369, in start
+    return self.obj.start()
+[2022-07-11 13:15:07,316: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/base.py", line 132, in start
+    self.on_start()
+[2022-07-11 13:15:07,316: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/prefork.py", line 111, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2022-07-11 13:15:07,317: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 486, in __init__
+    super(AsynPool, self).__init__(processes, *args, **kwargs)
+[2022-07-11 13:15:07,318: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2022-07-11 13:15:07,318: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 503, in _create_worker_process
+    return super(AsynPool, self)._create_worker_process(i)
+[2022-07-11 13:15:07,319: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2022-07-11 13:15:07,320: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2022-07-11 13:15:07,320: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2022-07-11 13:15:07,321: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2022-07-11 13:15:07,322: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2022-07-11 13:15:07,322: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2022-07-11 13:15:07,323: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2022-07-11 13:15:07,323: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2022-07-11 13:15:07,324: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2022-07-11 13:15:07,324: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 611, in _fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2022-07-11 13:15:07,325: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 412, in trace_task
+    R = retval = fun(*args, **kwargs)
+[2022-07-11 13:15:07,326: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 704, in __protected_call__
+    return self.run(*args, **kwargs)
+[2022-07-11 13:15:07,326: WARNING/ForkPoolWorker-1] File "/usr/src/app/worker.py", line 43, in create_task
+    logging.error("Error: ", xx)
+[2022-07-11 13:15:07,327: WARNING/ForkPoolWorker-1] Message: 'Error: '
+Arguments: (TypeError("get_items() missing 1 required positional argument: 'db'"),)
+[2022-07-11 13:15:07,328: WARNING/ForkPoolWorker-1] ERROR:
+[2022-07-11 13:15:07,328: WARNING/ForkPoolWorker-1] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 13:15:07,330: INFO/ForkPoolWorker-1] Task create_task[a815c65f-560c-4e96-965f-9a790b9ce7e1] succeeded in 20.062987799999974s: True
+[2022-07-11 13:15:26,641: INFO/ForkPoolWorker-2] SESSION CREATE ---- 
+[2022-07-11 13:15:26,643: WARNING/ForkPoolWorker-2] --- Logging error ---
+[2022-07-11 13:15:26,644: WARNING/ForkPoolWorker-2] Traceback (most recent call last):
+[2022-07-11 13:15:26,645: WARNING/ForkPoolWorker-2] File "/usr/src/app/worker.py", line 28, in create_task
+    # items = db_crud.get_items()
+[2022-07-11 13:15:26,646: WARNING/ForkPoolWorker-2] TypeError: get_items() missing 1 required positional argument: 'db'
+[2022-07-11 13:15:26,647: WARNING/ForkPoolWorker-2] During handling of the above exception, another exception occurred:
+[2022-07-11 13:15:26,648: WARNING/ForkPoolWorker-2] Traceback (most recent call last):
+[2022-07-11 13:15:26,648: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 1083, in emit
+    msg = self.format(record)
+[2022-07-11 13:15:26,649: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 927, in format
+    return fmt.format(record)
+[2022-07-11 13:15:26,650: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/utils/log.py", line 153, in format
+    msg = logging.Formatter.format(self, record)
+[2022-07-11 13:15:26,650: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 663, in format
+    record.message = record.getMessage()
+[2022-07-11 13:15:26,651: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 367, in getMessage
+    msg = msg % self.args
+[2022-07-11 13:15:26,652: WARNING/ForkPoolWorker-2] TypeError: not all arguments converted during string formatting
+[2022-07-11 13:15:26,652: WARNING/ForkPoolWorker-2] Call stack:
+[2022-07-11 13:15:26,653: WARNING/ForkPoolWorker-2] File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2022-07-11 13:15:26,654: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/__main__.py", line 16, in main
+    _main()
+[2022-07-11 13:15:26,655: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 322, in main
+    cmd.execute_from_commandline(argv)
+[2022-07-11 13:15:26,655: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 499, in execute_from_commandline
+    super(CeleryCommand, self).execute_from_commandline(argv)))
+[2022-07-11 13:15:26,656: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 305, in execute_from_commandline
+    return self.handle_argv(self.prog_name, argv[1:])
+[2022-07-11 13:15:26,656: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 491, in handle_argv
+    return self.execute(command, argv)
+[2022-07-11 13:15:26,657: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 415, in execute
+    return cls(
+[2022-07-11 13:15:26,658: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 223, in run_from_argv
+    return self(*args, **options)
+[2022-07-11 13:15:26,658: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 253, in __call__
+    ret = self.run(*args, **kwargs)
+[2022-07-11 13:15:26,659: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 259, in run
+    worker.start()
+[2022-07-11 13:15:26,660: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/worker/worker.py", line 208, in start
+    self.blueprint.start(self)
+[2022-07-11 13:15:26,660: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+[2022-07-11 13:15:26,661: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 369, in start
+    return self.obj.start()
+[2022-07-11 13:15:26,661: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/base.py", line 132, in start
+    self.on_start()
+[2022-07-11 13:15:26,662: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/prefork.py", line 111, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2022-07-11 13:15:26,663: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 486, in __init__
+    super(AsynPool, self).__init__(processes, *args, **kwargs)
+[2022-07-11 13:15:26,664: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2022-07-11 13:15:26,664: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 503, in _create_worker_process
+    return super(AsynPool, self)._create_worker_process(i)
+[2022-07-11 13:15:26,665: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2022-07-11 13:15:26,666: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2022-07-11 13:15:26,666: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2022-07-11 13:15:26,667: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2022-07-11 13:15:26,667: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2022-07-11 13:15:26,668: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2022-07-11 13:15:26,669: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2022-07-11 13:15:26,670: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2022-07-11 13:15:26,670: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2022-07-11 13:15:26,671: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 611, in _fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2022-07-11 13:15:26,672: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 412, in trace_task
+    R = retval = fun(*args, **kwargs)
+[2022-07-11 13:15:26,672: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 704, in __protected_call__
+    return self.run(*args, **kwargs)
+[2022-07-11 13:15:26,673: WARNING/ForkPoolWorker-2] File "/usr/src/app/worker.py", line 43, in create_task
+    logging.error("Error: ", xx)
+[2022-07-11 13:15:26,673: WARNING/ForkPoolWorker-2] Message: 'Error: '
+Arguments: (TypeError("get_items() missing 1 required positional argument: 'db'"),)
+[2022-07-11 13:15:26,674: WARNING/ForkPoolWorker-2] ERROR:
+[2022-07-11 13:15:26,675: WARNING/ForkPoolWorker-2] get_items() missing 1 required positional argument: 'db'
+[2022-07-11 13:15:26,676: INFO/ForkPoolWorker-2] Task create_task[b6977b11-e506-4ed4-b2c2-fcbe16f6ffe0] succeeded in 30.053179599999567s: True
+[2022-07-11 13:15:33,905: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-07-11 13:15:33,918: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-11 13:15:34,937: INFO/MainProcess] mingle: all alone
+[2022-07-11 13:15:34,950: INFO/MainProcess] celery@1a865629c6f7 ready.
+[2022-07-11 13:15:39,011: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-11 13:15:44,986: INFO/MainProcess] Received task: create_task[6af6288a-499f-4563-8b10-a1914af6a0a5]  
+[2022-07-11 13:15:45,537: INFO/MainProcess] Received task: create_task[3e55d55a-6aa1-4a75-8f0b-44dcc2fbb54c]  
+[2022-07-11 13:15:46,400: INFO/MainProcess] Received task: create_task[cff00b53-379d-4aa1-bed1-73a1865be45f]  
+[2022-07-11 13:15:55,001: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 13:15:55,092: INFO/ForkPoolWorker-1] Task create_task[6af6288a-499f-4563-8b10-a1914af6a0a5] succeeded in 10.102083699999639s: True
+[2022-07-11 13:16:05,541: INFO/ForkPoolWorker-2] SESSION CREATE ---- 
+[2022-07-11 13:16:05,621: INFO/ForkPoolWorker-2] Task create_task[3e55d55a-6aa1-4a75-8f0b-44dcc2fbb54c] succeeded in 20.080607700001565s: True
+[2022-07-11 13:16:25,125: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 13:16:25,205: INFO/ForkPoolWorker-1] Task create_task[cff00b53-379d-4aa1-bed1-73a1865be45f] succeeded in 30.109589399999095s: True
+[2022-07-11 13:58:21,123: WARNING/MainProcess] consumer: Connection to broker lost. Trying to re-establish the connection...
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/celery/worker/consumer/consumer.py", line 318, in start
+    blueprint.start(self)
+  File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+  File "/usr/local/lib/python3.9/site-packages/celery/worker/consumer/consumer.py", line 599, in start
+    c.loop(*c.loop_args())
+  File "/usr/local/lib/python3.9/site-packages/celery/worker/loops.py", line 83, in asynloop
+    next(loop)
+  File "/usr/local/lib/python3.9/site-packages/kombu/asynchronous/hub.py", line 364, in create_loop
+    cb(*cbargs)
+  File "/usr/local/lib/python3.9/site-packages/kombu/transport/redis.py", line 1083, in on_readable
+    self.cycle.on_readable(fileno)
+  File "/usr/local/lib/python3.9/site-packages/kombu/transport/redis.py", line 354, in on_readable
+    chan.handlers[type]()
+  File "/usr/local/lib/python3.9/site-packages/kombu/transport/redis.py", line 688, in _receive
+    ret.append(self._receive_one(c))
+  File "/usr/local/lib/python3.9/site-packages/kombu/transport/redis.py", line 698, in _receive_one
+    response = c.parse_response()
+  File "/usr/local/lib/python3.9/site-packages/redis/client.py", line 3505, in parse_response
+    response = self._execute(conn, conn.read_response)
+  File "/usr/local/lib/python3.9/site-packages/redis/client.py", line 3479, in _execute
+    return command(*args, **kwargs)
+  File "/usr/local/lib/python3.9/site-packages/redis/connection.py", line 739, in read_response
+    response = self._parser.read_response()
+  File "/usr/local/lib/python3.9/site-packages/redis/connection.py", line 324, in read_response
+    raw = self._buffer.readline()
+  File "/usr/local/lib/python3.9/site-packages/redis/connection.py", line 256, in readline
+    self._read_from_socket()
+  File "/usr/local/lib/python3.9/site-packages/redis/connection.py", line 201, in _read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+[2022-07-11 13:58:21,141: ERROR/MainProcess] consumer: Cannot connect to redis://redis:6379/0: Error 111 connecting to redis:6379. Connection refused..
+Trying again in 2.00 seconds... (1/100)
+
+[2022-07-11 20:34:16,881: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-07-11 20:34:16,898: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-11 20:34:17,916: INFO/MainProcess] mingle: all alone
+[2022-07-11 20:34:17,933: INFO/MainProcess] celery@ef2d129c13dc ready.
+[2022-07-11 20:34:21,622: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-11 20:35:30,804: INFO/MainProcess] Received task: create_task[164045c2-ae0a-4499-87fb-1f950db14fd7]  
+[2022-07-11 20:35:37,670: INFO/MainProcess] Received task: create_task[4a9e9ac3-0be9-4b4f-8778-977b795b1574]  
+[2022-07-11 20:35:40,735: INFO/MainProcess] Received task: create_task[6593eb93-d89e-4897-a457-081dc4fd7a3e]  
+[2022-07-11 20:35:40,816: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 20:35:41,009: INFO/ForkPoolWorker-1] Task create_task[164045c2-ae0a-4499-87fb-1f950db14fd7] succeeded in 10.202706299999988s: True
+[2022-07-11 20:35:53,700: INFO/MainProcess] Received task: create_task[9fc3ee96-d7ed-469d-b6f4-2b6041f0eaa6]  
+[2022-07-11 20:35:54,770: INFO/MainProcess] Received task: create_task[1000acb3-291a-460f-a79a-9ff1b2c9b9ca]  
+[2022-07-11 20:35:56,020: INFO/MainProcess] Received task: create_task[79745230-11dd-458a-bc3d-95d4535bf6f4]  
+[2022-07-11 20:35:57,694: INFO/ForkPoolWorker-2] SESSION CREATE ---- 
+[2022-07-11 20:35:57,835: INFO/ForkPoolWorker-2] Task create_task[4a9e9ac3-0be9-4b4f-8778-977b795b1574] succeeded in 20.160072200000002s: True
+[2022-07-11 20:36:07,848: INFO/ForkPoolWorker-2] SESSION CREATE ---- 
+[2022-07-11 20:36:07,925: INFO/ForkPoolWorker-2] Task create_task[9fc3ee96-d7ed-469d-b6f4-2b6041f0eaa6] succeeded in 10.087040300000012s: True
+[2022-07-11 20:36:11,038: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 20:36:11,157: INFO/ForkPoolWorker-1] Task create_task[6593eb93-d89e-4897-a457-081dc4fd7a3e] succeeded in 30.144587299999955s: True
+[2022-07-11 20:36:39,182: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-07-11 20:36:39,190: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-11 20:36:40,223: INFO/MainProcess] mingle: all alone
+[2022-07-11 20:36:40,255: INFO/MainProcess] celery@329ae65fded3 ready.
+[2022-07-11 20:37:23,301: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-07-11 20:37:23,314: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-11 20:37:24,331: INFO/MainProcess] mingle: all alone
+[2022-07-11 20:37:24,348: INFO/MainProcess] celery@fc69429490c6 ready.
+[2022-07-11 20:37:28,110: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-11 20:37:33,280: INFO/MainProcess] Received task: create_task[715819c6-3a92-4a8c-81d2-786bd4bd647f]  
+[2022-07-11 20:37:35,318: INFO/MainProcess] Received task: create_task[801138de-22bc-4ff1-831a-202f14ad6f06]  
+[2022-07-11 20:37:36,707: INFO/MainProcess] Received task: create_task[0dbf5e8f-a407-4f10-b10f-2710b999a23d]  
+[2022-07-11 20:37:43,295: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 20:37:43,482: INFO/ForkPoolWorker-1] Task create_task[715819c6-3a92-4a8c-81d2-786bd4bd647f] succeeded in 10.197191499999974s: True
+[2022-07-11 20:37:46,334: INFO/MainProcess] Received task: create_task[95559300-016a-4f0e-bc78-87aa09e5c192]  
+[2022-07-11 20:37:47,511: INFO/MainProcess] Received task: create_task[d770ef81-7dc5-4bad-a9ee-96b3e6e3cd56]  
+[2022-07-11 20:37:48,747: INFO/MainProcess] Received task: create_task[fbebb310-0c08-4e63-9bae-93f3f260c07f]  
+[2022-07-11 20:37:55,325: INFO/ForkPoolWorker-2] SESSION CREATE ---- 
+[2022-07-11 20:37:55,416: INFO/ForkPoolWorker-2] Task create_task[801138de-22bc-4ff1-831a-202f14ad6f06] succeeded in 20.094486599999982s: True
+[2022-07-11 20:38:05,426: INFO/ForkPoolWorker-2] SESSION CREATE ---- 
+[2022-07-11 20:38:05,534: INFO/ForkPoolWorker-2] Task create_task[95559300-016a-4f0e-bc78-87aa09e5c192] succeeded in 10.116044799999997s: True
+[2022-07-11 20:38:13,498: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 20:38:13,575: INFO/ForkPoolWorker-1] Task create_task[0dbf5e8f-a407-4f10-b10f-2710b999a23d] succeeded in 30.090383799999984s: True
+[2022-07-11 20:38:25,553: INFO/ForkPoolWorker-2] SESSION CREATE ---- 
+[2022-07-11 20:38:25,626: INFO/ForkPoolWorker-2] Task create_task[d770ef81-7dc5-4bad-a9ee-96b3e6e3cd56] succeeded in 20.08725780000003s: True
+[2022-07-11 20:38:43,608: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 20:38:43,707: INFO/ForkPoolWorker-1] Task create_task[fbebb310-0c08-4e63-9bae-93f3f260c07f] succeeded in 30.129645700000026s: True
+[2022-07-11 20:39:01,326: INFO/MainProcess] Received task: create_task[8a82aa7e-cd90-48c1-8f61-ff5731db225e]  
+[2022-07-11 20:39:02,414: INFO/MainProcess] Received task: create_task[3901f933-e7f4-4f8a-ae1b-1d97ca58e084]  
+[2022-07-11 20:39:03,540: INFO/MainProcess] Received task: create_task[f07cd749-91ae-4012-925b-1fd69973f89e]  
+[2022-07-11 20:39:11,333: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 20:39:11,414: INFO/ForkPoolWorker-1] Task create_task[8a82aa7e-cd90-48c1-8f61-ff5731db225e] succeeded in 10.084792900000025s: True
+[2022-07-11 20:39:22,436: INFO/ForkPoolWorker-2] SESSION CREATE ---- 
+[2022-07-11 20:39:22,522: INFO/ForkPoolWorker-2] Task create_task[3901f933-e7f4-4f8a-ae1b-1d97ca58e084] succeeded in 20.101084600000036s: True
+[2022-07-11 20:39:41,450: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 20:39:41,524: INFO/ForkPoolWorker-1] Task create_task[f07cd749-91ae-4012-925b-1fd69973f89e] succeeded in 30.104405399999905s: True
+[2022-07-11 20:50:32,466: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-07-11 20:50:32,475: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-11 20:50:33,500: INFO/MainProcess] mingle: all alone
+[2022-07-11 20:50:33,530: INFO/MainProcess] celery@c4b8e6c1e790 ready.
+[2022-07-11 20:50:37,296: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-11 20:53:19,965: INFO/MainProcess] Received task: create_task[76e5f299-a6af-4201-ac24-aa133a1f6d61]  
+[2022-07-11 20:53:23,927: INFO/MainProcess] Received task: create_task[dd1ba83d-fe28-420d-af6c-9e5e42e561de]  
+[2022-07-11 20:53:26,064: INFO/MainProcess] Received task: create_task[58581db3-a9b7-4d06-ba1c-56cb0c891feb]  
+[2022-07-11 20:53:27,642: INFO/MainProcess] Received task: create_task[8f748875-23b5-4ef7-b1e8-49eb6332a154]  
+[2022-07-11 20:53:29,978: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 20:53:30,011: WARNING/ForkPoolWorker-1] --- Logging error ---
+[2022-07-11 20:53:30,025: WARNING/ForkPoolWorker-1] Traceback (most recent call last):
+[2022-07-11 20:53:30,026: WARNING/ForkPoolWorker-1] File "/usr/src/app/worker.py", line 43, in create_task
+    item_create = ItemCreate(
+[2022-07-11 20:53:30,027: WARNING/ForkPoolWorker-1] File "pydantic/main.py", line 341, in pydantic.main.BaseModel.__init__
+[2022-07-11 20:53:30,028: WARNING/ForkPoolWorker-1] pydantic.error_wrappers.ValidationError: 1 validation error for ItemCreate
+description
+  str type expected (type=type_error.str)
+[2022-07-11 20:53:30,028: WARNING/ForkPoolWorker-1] During handling of the above exception, another exception occurred:
+[2022-07-11 20:53:30,029: WARNING/ForkPoolWorker-1] Traceback (most recent call last):
+[2022-07-11 20:53:30,030: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 1083, in emit
+    msg = self.format(record)
+[2022-07-11 20:53:30,031: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 927, in format
+    return fmt.format(record)
+[2022-07-11 20:53:30,031: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/utils/log.py", line 153, in format
+    msg = logging.Formatter.format(self, record)
+[2022-07-11 20:53:30,033: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 663, in format
+    record.message = record.getMessage()
+[2022-07-11 20:53:30,035: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 367, in getMessage
+    msg = msg % self.args
+[2022-07-11 20:53:30,036: WARNING/ForkPoolWorker-1] TypeError: not all arguments converted during string formatting
+[2022-07-11 20:53:30,038: WARNING/ForkPoolWorker-1] Call stack:
+[2022-07-11 20:53:30,044: WARNING/ForkPoolWorker-1] File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2022-07-11 20:53:30,046: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/__main__.py", line 16, in main
+    _main()
+[2022-07-11 20:53:30,047: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 322, in main
+    cmd.execute_from_commandline(argv)
+[2022-07-11 20:53:30,048: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 499, in execute_from_commandline
+    super(CeleryCommand, self).execute_from_commandline(argv)))
+[2022-07-11 20:53:30,049: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 305, in execute_from_commandline
+    return self.handle_argv(self.prog_name, argv[1:])
+[2022-07-11 20:53:30,051: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 491, in handle_argv
+    return self.execute(command, argv)
+[2022-07-11 20:53:30,053: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 415, in execute
+    return cls(
+[2022-07-11 20:53:30,054: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 223, in run_from_argv
+    return self(*args, **options)
+[2022-07-11 20:53:30,055: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 253, in __call__
+    ret = self.run(*args, **kwargs)
+[2022-07-11 20:53:30,055: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 259, in run
+    worker.start()
+[2022-07-11 20:53:30,056: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/worker/worker.py", line 208, in start
+    self.blueprint.start(self)
+[2022-07-11 20:53:30,057: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+[2022-07-11 20:53:30,058: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 369, in start
+    return self.obj.start()
+[2022-07-11 20:53:30,058: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/base.py", line 132, in start
+    self.on_start()
+[2022-07-11 20:53:30,059: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/prefork.py", line 111, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2022-07-11 20:53:30,060: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 486, in __init__
+    super(AsynPool, self).__init__(processes, *args, **kwargs)
+[2022-07-11 20:53:30,061: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2022-07-11 20:53:30,062: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 503, in _create_worker_process
+    return super(AsynPool, self)._create_worker_process(i)
+[2022-07-11 20:53:30,062: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2022-07-11 20:53:30,063: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2022-07-11 20:53:30,064: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2022-07-11 20:53:30,064: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2022-07-11 20:53:30,065: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2022-07-11 20:53:30,067: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2022-07-11 20:53:30,069: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2022-07-11 20:53:30,070: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2022-07-11 20:53:30,071: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2022-07-11 20:53:30,071: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 611, in _fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2022-07-11 20:53:30,072: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 412, in trace_task
+    R = retval = fun(*args, **kwargs)
+[2022-07-11 20:53:30,073: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 704, in __protected_call__
+    return self.run(*args, **kwargs)
+[2022-07-11 20:53:30,074: WARNING/ForkPoolWorker-1] File "/usr/src/app/worker.py", line 53, in create_task
+    logging.error("Error: ", xx)
+[2022-07-11 20:53:30,075: WARNING/ForkPoolWorker-1] Message: 'Error: '
+Arguments: (ValidationError(model='ItemCreate', errors=[{'loc': ('description',), 'msg': 'str type expected', 'type': 'type_error.str'}]),)
+[2022-07-11 20:53:30,076: WARNING/ForkPoolWorker-1] ERROR:
+[2022-07-11 20:53:30,076: WARNING/ForkPoolWorker-1] 1 validation error for ItemCreate
+description
+  str type expected (type=type_error.str)
+[2022-07-11 20:53:30,080: INFO/ForkPoolWorker-1] Task create_task[76e5f299-a6af-4201-ac24-aa133a1f6d61] succeeded in 10.110125800000105s: True
+[2022-07-11 20:53:32,742: INFO/MainProcess] Received task: create_task[ebccb9ef-4fed-4eb0-a44b-cac4be8253fe]  
+[2022-07-11 20:53:37,182: INFO/MainProcess] Received task: create_task[b8456b6a-2b8e-45b2-a1db-fd6221966fc1]  
+[2022-07-11 20:53:38,648: INFO/MainProcess] Received task: create_task[02208c8a-fb0d-4f13-8bad-38169eb0eb58]  
+[2022-07-11 20:53:40,088: INFO/MainProcess] Received task: create_task[f1c3146c-d213-4d98-9ca8-8640dd5134c6]  
+[2022-07-11 20:53:41,061: INFO/MainProcess] Received task: create_task[357f76c2-baa6-4dd5-962c-63ce9214a806]  
+[2022-07-11 20:53:42,094: INFO/MainProcess] Received task: create_task[a33e6c45-acc8-45a6-adfe-005c54faf8ba]  
+[2022-07-11 20:53:43,195: INFO/MainProcess] Received task: create_task[a20aa5eb-6aab-49aa-84f7-394ce2f98e87]  
+[2022-07-11 20:53:43,944: INFO/ForkPoolWorker-2] SESSION CREATE ---- 
+[2022-07-11 20:53:44,025: WARNING/ForkPoolWorker-2] --- Logging error ---
+[2022-07-11 20:53:44,040: WARNING/ForkPoolWorker-2] Traceback (most recent call last):
+[2022-07-11 20:53:44,041: WARNING/ForkPoolWorker-2] File "/usr/src/app/worker.py", line 43, in create_task
+    item_create = ItemCreate(
+[2022-07-11 20:53:44,043: WARNING/ForkPoolWorker-2] File "pydantic/main.py", line 341, in pydantic.main.BaseModel.__init__
+[2022-07-11 20:53:44,050: WARNING/ForkPoolWorker-2] pydantic.error_wrappers.ValidationError: 1 validation error for ItemCreate
+description
+  str type expected (type=type_error.str)
+[2022-07-11 20:53:44,052: WARNING/ForkPoolWorker-2] During handling of the above exception, another exception occurred:
+[2022-07-11 20:53:44,054: WARNING/ForkPoolWorker-2] Traceback (most recent call last):
+[2022-07-11 20:53:44,055: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 1083, in emit
+    msg = self.format(record)
+[2022-07-11 20:53:44,058: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 927, in format
+    return fmt.format(record)
+[2022-07-11 20:53:44,059: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/utils/log.py", line 153, in format
+    msg = logging.Formatter.format(self, record)
+[2022-07-11 20:53:44,060: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 663, in format
+    record.message = record.getMessage()
+[2022-07-11 20:53:44,061: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 367, in getMessage
+    msg = msg % self.args
+[2022-07-11 20:53:44,062: WARNING/ForkPoolWorker-2] TypeError: not all arguments converted during string formatting
+[2022-07-11 20:53:44,063: WARNING/ForkPoolWorker-2] Call stack:
+[2022-07-11 20:53:44,067: WARNING/ForkPoolWorker-2] File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2022-07-11 20:53:44,068: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/__main__.py", line 16, in main
+    _main()
+[2022-07-11 20:53:44,070: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 322, in main
+    cmd.execute_from_commandline(argv)
+[2022-07-11 20:53:44,072: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 499, in execute_from_commandline
+    super(CeleryCommand, self).execute_from_commandline(argv)))
+[2022-07-11 20:53:44,073: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 305, in execute_from_commandline
+    return self.handle_argv(self.prog_name, argv[1:])
+[2022-07-11 20:53:44,073: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 491, in handle_argv
+    return self.execute(command, argv)
+[2022-07-11 20:53:44,074: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 415, in execute
+    return cls(
+[2022-07-11 20:53:44,075: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 223, in run_from_argv
+    return self(*args, **options)
+[2022-07-11 20:53:44,076: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 253, in __call__
+    ret = self.run(*args, **kwargs)
+[2022-07-11 20:53:44,076: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 259, in run
+    worker.start()
+[2022-07-11 20:53:44,079: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/worker/worker.py", line 208, in start
+    self.blueprint.start(self)
+[2022-07-11 20:53:44,080: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+[2022-07-11 20:53:44,080: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 369, in start
+    return self.obj.start()
+[2022-07-11 20:53:44,082: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/base.py", line 132, in start
+    self.on_start()
+[2022-07-11 20:53:44,085: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/prefork.py", line 111, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2022-07-11 20:53:44,087: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 486, in __init__
+    super(AsynPool, self).__init__(processes, *args, **kwargs)
+[2022-07-11 20:53:44,089: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2022-07-11 20:53:44,092: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 503, in _create_worker_process
+    return super(AsynPool, self)._create_worker_process(i)
+[2022-07-11 20:53:44,093: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2022-07-11 20:53:44,094: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2022-07-11 20:53:44,095: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2022-07-11 20:53:44,096: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2022-07-11 20:53:44,098: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2022-07-11 20:53:44,102: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2022-07-11 20:53:44,103: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2022-07-11 20:53:44,105: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2022-07-11 20:53:44,106: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2022-07-11 20:53:44,108: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 611, in _fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2022-07-11 20:53:44,109: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 412, in trace_task
+    R = retval = fun(*args, **kwargs)
+[2022-07-11 20:53:44,113: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 704, in __protected_call__
+    return self.run(*args, **kwargs)
+[2022-07-11 20:53:44,120: WARNING/ForkPoolWorker-2] File "/usr/src/app/worker.py", line 53, in create_task
+    logging.error("Error: ", xx)
+[2022-07-11 20:53:44,124: WARNING/ForkPoolWorker-2] Message: 'Error: '
+Arguments: (ValidationError(model='ItemCreate', errors=[{'loc': ('description',), 'msg': 'str type expected', 'type': 'type_error.str'}]),)
+[2022-07-11 20:53:44,126: WARNING/ForkPoolWorker-2] ERROR:
+[2022-07-11 20:53:44,128: WARNING/ForkPoolWorker-2] 1 validation error for ItemCreate
+description
+  str type expected (type=type_error.str)
+[2022-07-11 20:53:44,141: INFO/ForkPoolWorker-2] Task create_task[dd1ba83d-fe28-420d-af6c-9e5e42e561de] succeeded in 20.210293099999944s: True
+[2022-07-11 20:53:45,836: INFO/MainProcess] Received task: create_task[f666378d-ff86-4d51-a080-fa736699d4b9]  
+[2022-07-11 20:54:00,114: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 20:54:00,137: WARNING/ForkPoolWorker-1] --- Logging error ---
+[2022-07-11 20:54:00,140: WARNING/ForkPoolWorker-1] Traceback (most recent call last):
+[2022-07-11 20:54:00,141: WARNING/ForkPoolWorker-1] File "/usr/src/app/worker.py", line 43, in create_task
+    item_create = ItemCreate(
+[2022-07-11 20:54:00,142: WARNING/ForkPoolWorker-1] File "pydantic/main.py", line 341, in pydantic.main.BaseModel.__init__
+[2022-07-11 20:54:00,142: WARNING/ForkPoolWorker-1] pydantic.error_wrappers.ValidationError: 1 validation error for ItemCreate
+description
+  str type expected (type=type_error.str)
+[2022-07-11 20:54:00,143: WARNING/ForkPoolWorker-1] During handling of the above exception, another exception occurred:
+[2022-07-11 20:54:00,144: WARNING/ForkPoolWorker-1] Traceback (most recent call last):
+[2022-07-11 20:54:00,144: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 1083, in emit
+    msg = self.format(record)
+[2022-07-11 20:54:00,145: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 927, in format
+    return fmt.format(record)
+[2022-07-11 20:54:00,146: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/utils/log.py", line 153, in format
+    msg = logging.Formatter.format(self, record)
+[2022-07-11 20:54:00,146: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 663, in format
+    record.message = record.getMessage()
+[2022-07-11 20:54:00,148: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 367, in getMessage
+    msg = msg % self.args
+[2022-07-11 20:54:00,150: WARNING/ForkPoolWorker-1] TypeError: not all arguments converted during string formatting
+[2022-07-11 20:54:00,152: WARNING/ForkPoolWorker-1] Call stack:
+[2022-07-11 20:54:00,153: WARNING/ForkPoolWorker-1] File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2022-07-11 20:54:00,154: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/__main__.py", line 16, in main
+    _main()
+[2022-07-11 20:54:00,155: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 322, in main
+    cmd.execute_from_commandline(argv)
+[2022-07-11 20:54:00,156: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 499, in execute_from_commandline
+    super(CeleryCommand, self).execute_from_commandline(argv)))
+[2022-07-11 20:54:00,157: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 305, in execute_from_commandline
+    return self.handle_argv(self.prog_name, argv[1:])
+[2022-07-11 20:54:00,157: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 491, in handle_argv
+    return self.execute(command, argv)
+[2022-07-11 20:54:00,158: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 415, in execute
+    return cls(
+[2022-07-11 20:54:00,159: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 223, in run_from_argv
+    return self(*args, **options)
+[2022-07-11 20:54:00,159: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 253, in __call__
+    ret = self.run(*args, **kwargs)
+[2022-07-11 20:54:00,160: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 259, in run
+    worker.start()
+[2022-07-11 20:54:00,161: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/worker/worker.py", line 208, in start
+    self.blueprint.start(self)
+[2022-07-11 20:54:00,161: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+[2022-07-11 20:54:00,162: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 369, in start
+    return self.obj.start()
+[2022-07-11 20:54:00,163: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/base.py", line 132, in start
+    self.on_start()
+[2022-07-11 20:54:00,164: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/prefork.py", line 111, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2022-07-11 20:54:00,166: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 486, in __init__
+    super(AsynPool, self).__init__(processes, *args, **kwargs)
+[2022-07-11 20:54:00,167: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2022-07-11 20:54:00,168: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 503, in _create_worker_process
+    return super(AsynPool, self)._create_worker_process(i)
+[2022-07-11 20:54:00,169: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2022-07-11 20:54:00,170: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2022-07-11 20:54:00,170: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2022-07-11 20:54:00,171: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2022-07-11 20:54:00,172: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2022-07-11 20:54:00,172: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2022-07-11 20:54:00,173: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2022-07-11 20:54:00,174: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2022-07-11 20:54:00,174: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2022-07-11 20:54:00,175: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 611, in _fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2022-07-11 20:54:00,176: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 412, in trace_task
+    R = retval = fun(*args, **kwargs)
+[2022-07-11 20:54:00,176: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 704, in __protected_call__
+    return self.run(*args, **kwargs)
+[2022-07-11 20:54:00,177: WARNING/ForkPoolWorker-1] File "/usr/src/app/worker.py", line 53, in create_task
+    logging.error("Error: ", xx)
+[2022-07-11 20:54:00,178: WARNING/ForkPoolWorker-1] Message: 'Error: '
+Arguments: (ValidationError(model='ItemCreate', errors=[{'loc': ('description',), 'msg': 'str type expected', 'type': 'type_error.str'}]),)
+[2022-07-11 20:54:00,178: WARNING/ForkPoolWorker-1] ERROR:
+[2022-07-11 20:54:00,179: WARNING/ForkPoolWorker-1] 1 validation error for ItemCreate
+description
+  str type expected (type=type_error.str)
+[2022-07-11 20:54:00,182: INFO/ForkPoolWorker-1] Task create_task[58581db3-a9b7-4d06-ba1c-56cb0c891feb] succeeded in 30.096996499999932s: True
+[2022-07-11 20:54:01,866: INFO/MainProcess] Received task: create_task[ae1d87cc-7a88-45a9-b29b-b8c9ca12f744]  
+[2022-07-11 20:54:04,158: INFO/ForkPoolWorker-2] SESSION CREATE ---- 
+[2022-07-11 20:54:04,203: WARNING/ForkPoolWorker-2] --- Logging error ---
+[2022-07-11 20:54:04,208: WARNING/ForkPoolWorker-2] Traceback (most recent call last):
+[2022-07-11 20:54:04,209: WARNING/ForkPoolWorker-2] File "/usr/src/app/worker.py", line 43, in create_task
+    item_create = ItemCreate(
+[2022-07-11 20:54:04,209: WARNING/ForkPoolWorker-2] File "pydantic/main.py", line 341, in pydantic.main.BaseModel.__init__
+[2022-07-11 20:54:04,211: WARNING/ForkPoolWorker-2] pydantic.error_wrappers.ValidationError: 1 validation error for ItemCreate
+description
+  str type expected (type=type_error.str)
+[2022-07-11 20:54:04,212: WARNING/ForkPoolWorker-2] During handling of the above exception, another exception occurred:
+[2022-07-11 20:54:04,213: WARNING/ForkPoolWorker-2] Traceback (most recent call last):
+[2022-07-11 20:54:04,214: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 1083, in emit
+    msg = self.format(record)
+[2022-07-11 20:54:04,216: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 927, in format
+    return fmt.format(record)
+[2022-07-11 20:54:04,217: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/utils/log.py", line 153, in format
+    msg = logging.Formatter.format(self, record)
+[2022-07-11 20:54:04,219: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 663, in format
+    record.message = record.getMessage()
+[2022-07-11 20:54:04,220: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 367, in getMessage
+    msg = msg % self.args
+[2022-07-11 20:54:04,222: WARNING/ForkPoolWorker-2] TypeError: not all arguments converted during string formatting
+[2022-07-11 20:54:04,224: WARNING/ForkPoolWorker-2] Call stack:
+[2022-07-11 20:54:04,226: WARNING/ForkPoolWorker-2] File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2022-07-11 20:54:04,227: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/__main__.py", line 16, in main
+    _main()
+[2022-07-11 20:54:04,228: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 322, in main
+    cmd.execute_from_commandline(argv)
+[2022-07-11 20:54:04,229: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 499, in execute_from_commandline
+    super(CeleryCommand, self).execute_from_commandline(argv)))
+[2022-07-11 20:54:04,230: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 305, in execute_from_commandline
+    return self.handle_argv(self.prog_name, argv[1:])
+[2022-07-11 20:54:04,233: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 491, in handle_argv
+    return self.execute(command, argv)
+[2022-07-11 20:54:04,235: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 415, in execute
+    return cls(
+[2022-07-11 20:54:04,236: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 223, in run_from_argv
+    return self(*args, **options)
+[2022-07-11 20:54:04,237: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 253, in __call__
+    ret = self.run(*args, **kwargs)
+[2022-07-11 20:54:04,237: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 259, in run
+    worker.start()
+[2022-07-11 20:54:04,238: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/worker/worker.py", line 208, in start
+    self.blueprint.start(self)
+[2022-07-11 20:54:04,239: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+[2022-07-11 20:54:04,239: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 369, in start
+    return self.obj.start()
+[2022-07-11 20:54:04,240: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/base.py", line 132, in start
+    self.on_start()
+[2022-07-11 20:54:04,241: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/prefork.py", line 111, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2022-07-11 20:54:04,242: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 486, in __init__
+    super(AsynPool, self).__init__(processes, *args, **kwargs)
+[2022-07-11 20:54:04,242: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2022-07-11 20:54:04,243: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 503, in _create_worker_process
+    return super(AsynPool, self)._create_worker_process(i)
+[2022-07-11 20:54:04,244: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2022-07-11 20:54:04,244: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2022-07-11 20:54:04,245: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2022-07-11 20:54:04,246: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2022-07-11 20:54:04,248: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2022-07-11 20:54:04,250: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2022-07-11 20:54:04,251: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2022-07-11 20:54:04,254: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2022-07-11 20:54:04,255: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2022-07-11 20:54:04,256: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 611, in _fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2022-07-11 20:54:04,257: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 412, in trace_task
+    R = retval = fun(*args, **kwargs)
+[2022-07-11 20:54:04,258: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 704, in __protected_call__
+    return self.run(*args, **kwargs)
+[2022-07-11 20:54:04,258: WARNING/ForkPoolWorker-2] File "/usr/src/app/worker.py", line 53, in create_task
+    logging.error("Error: ", xx)
+[2022-07-11 20:54:04,259: WARNING/ForkPoolWorker-2] Message: 'Error: '
+Arguments: (ValidationError(model='ItemCreate', errors=[{'loc': ('description',), 'msg': 'str type expected', 'type': 'type_error.str'}]),)
+[2022-07-11 20:54:04,260: WARNING/ForkPoolWorker-2] ERROR:
+[2022-07-11 20:54:04,261: WARNING/ForkPoolWorker-2] 1 validation error for ItemCreate
+description
+  str type expected (type=type_error.str)
+[2022-07-11 20:54:04,263: INFO/ForkPoolWorker-2] Task create_task[8f748875-23b5-4ef7-b1e8-49eb6332a154] succeeded in 20.116511899999978s: True
+[2022-07-11 20:54:10,194: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 20:54:10,239: WARNING/ForkPoolWorker-1] --- Logging error ---
+[2022-07-11 20:54:10,243: WARNING/ForkPoolWorker-1] Traceback (most recent call last):
+[2022-07-11 20:54:10,244: WARNING/ForkPoolWorker-1] File "/usr/src/app/worker.py", line 43, in create_task
+    item_create = ItemCreate(
+[2022-07-11 20:54:10,245: WARNING/ForkPoolWorker-1] File "pydantic/main.py", line 341, in pydantic.main.BaseModel.__init__
+[2022-07-11 20:54:10,246: WARNING/ForkPoolWorker-1] pydantic.error_wrappers.ValidationError: 1 validation error for ItemCreate
+description
+  str type expected (type=type_error.str)
+[2022-07-11 20:54:10,248: WARNING/ForkPoolWorker-1] During handling of the above exception, another exception occurred:
+[2022-07-11 20:54:10,251: WARNING/ForkPoolWorker-1] Traceback (most recent call last):
+[2022-07-11 20:54:10,252: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 1083, in emit
+    msg = self.format(record)
+[2022-07-11 20:54:10,253: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 927, in format
+    return fmt.format(record)
+[2022-07-11 20:54:10,255: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/utils/log.py", line 153, in format
+    msg = logging.Formatter.format(self, record)
+[2022-07-11 20:54:10,256: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 663, in format
+    record.message = record.getMessage()
+[2022-07-11 20:54:10,257: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/logging/__init__.py", line 367, in getMessage
+    msg = msg % self.args
+[2022-07-11 20:54:10,258: WARNING/ForkPoolWorker-1] TypeError: not all arguments converted during string formatting
+[2022-07-11 20:54:10,259: WARNING/ForkPoolWorker-1] Call stack:
+[2022-07-11 20:54:10,260: WARNING/ForkPoolWorker-1] File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2022-07-11 20:54:10,261: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/__main__.py", line 16, in main
+    _main()
+[2022-07-11 20:54:10,262: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 322, in main
+    cmd.execute_from_commandline(argv)
+[2022-07-11 20:54:10,264: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 499, in execute_from_commandline
+    super(CeleryCommand, self).execute_from_commandline(argv)))
+[2022-07-11 20:54:10,266: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 305, in execute_from_commandline
+    return self.handle_argv(self.prog_name, argv[1:])
+[2022-07-11 20:54:10,269: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 491, in handle_argv
+    return self.execute(command, argv)
+[2022-07-11 20:54:10,270: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 415, in execute
+    return cls(
+[2022-07-11 20:54:10,271: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 223, in run_from_argv
+    return self(*args, **options)
+[2022-07-11 20:54:10,272: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 253, in __call__
+    ret = self.run(*args, **kwargs)
+[2022-07-11 20:54:10,273: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 259, in run
+    worker.start()
+[2022-07-11 20:54:10,274: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/worker/worker.py", line 208, in start
+    self.blueprint.start(self)
+[2022-07-11 20:54:10,275: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+[2022-07-11 20:54:10,275: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 369, in start
+    return self.obj.start()
+[2022-07-11 20:54:10,276: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/base.py", line 132, in start
+    self.on_start()
+[2022-07-11 20:54:10,277: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/prefork.py", line 111, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2022-07-11 20:54:10,277: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 486, in __init__
+    super(AsynPool, self).__init__(processes, *args, **kwargs)
+[2022-07-11 20:54:10,279: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2022-07-11 20:54:10,280: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 503, in _create_worker_process
+    return super(AsynPool, self)._create_worker_process(i)
+[2022-07-11 20:54:10,283: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2022-07-11 20:54:10,284: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2022-07-11 20:54:10,285: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2022-07-11 20:54:10,287: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2022-07-11 20:54:10,289: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2022-07-11 20:54:10,290: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2022-07-11 20:54:10,291: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2022-07-11 20:54:10,292: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2022-07-11 20:54:10,293: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2022-07-11 20:54:10,294: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 611, in _fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2022-07-11 20:54:10,294: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 412, in trace_task
+    R = retval = fun(*args, **kwargs)
+[2022-07-11 20:54:10,295: WARNING/ForkPoolWorker-1] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 704, in __protected_call__
+    return self.run(*args, **kwargs)
+[2022-07-11 20:54:10,297: WARNING/ForkPoolWorker-1] File "/usr/src/app/worker.py", line 53, in create_task
+    logging.error("Error: ", xx)
+[2022-07-11 20:54:10,299: WARNING/ForkPoolWorker-1] Message: 'Error: '
+Arguments: (ValidationError(model='ItemCreate', errors=[{'loc': ('description',), 'msg': 'str type expected', 'type': 'type_error.str'}]),)
+[2022-07-11 20:54:10,300: WARNING/ForkPoolWorker-1] ERROR:
+[2022-07-11 20:54:10,301: WARNING/ForkPoolWorker-1] 1 validation error for ItemCreate
+description
+  str type expected (type=type_error.str)
+[2022-07-11 20:54:10,303: INFO/ForkPoolWorker-1] Task create_task[ebccb9ef-4fed-4eb0-a44b-cac4be8253fe] succeeded in 10.118343200000027s: True
+[2022-07-11 20:54:24,282: INFO/ForkPoolWorker-2] SESSION CREATE ---- 
+[2022-07-11 20:54:24,322: WARNING/ForkPoolWorker-2] --- Logging error ---
+[2022-07-11 20:54:24,326: WARNING/ForkPoolWorker-2] Traceback (most recent call last):
+[2022-07-11 20:54:24,326: WARNING/ForkPoolWorker-2] File "/usr/src/app/worker.py", line 43, in create_task
+    item_create = ItemCreate(
+[2022-07-11 20:54:24,327: WARNING/ForkPoolWorker-2] File "pydantic/main.py", line 341, in pydantic.main.BaseModel.__init__
+[2022-07-11 20:54:24,328: WARNING/ForkPoolWorker-2] pydantic.error_wrappers.ValidationError: 1 validation error for ItemCreate
+description
+  str type expected (type=type_error.str)
+[2022-07-11 20:54:24,331: WARNING/ForkPoolWorker-2] During handling of the above exception, another exception occurred:
+[2022-07-11 20:54:24,332: WARNING/ForkPoolWorker-2] Traceback (most recent call last):
+[2022-07-11 20:54:24,333: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 1083, in emit
+    msg = self.format(record)
+[2022-07-11 20:54:24,334: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 927, in format
+    return fmt.format(record)
+[2022-07-11 20:54:24,335: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/utils/log.py", line 153, in format
+    msg = logging.Formatter.format(self, record)
+[2022-07-11 20:54:24,336: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 663, in format
+    record.message = record.getMessage()
+[2022-07-11 20:54:24,337: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/logging/__init__.py", line 367, in getMessage
+    msg = msg % self.args
+[2022-07-11 20:54:24,337: WARNING/ForkPoolWorker-2] TypeError: not all arguments converted during string formatting
+[2022-07-11 20:54:24,338: WARNING/ForkPoolWorker-2] Call stack:
+[2022-07-11 20:54:24,339: WARNING/ForkPoolWorker-2] File "/usr/local/bin/celery", line 8, in <module>
+    sys.exit(main())
+[2022-07-11 20:54:24,340: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/__main__.py", line 16, in main
+    _main()
+[2022-07-11 20:54:24,340: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 322, in main
+    cmd.execute_from_commandline(argv)
+[2022-07-11 20:54:24,341: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 499, in execute_from_commandline
+    super(CeleryCommand, self).execute_from_commandline(argv)))
+[2022-07-11 20:54:24,342: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 305, in execute_from_commandline
+    return self.handle_argv(self.prog_name, argv[1:])
+[2022-07-11 20:54:24,342: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 491, in handle_argv
+    return self.execute(command, argv)
+[2022-07-11 20:54:24,343: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/celery.py", line 415, in execute
+    return cls(
+[2022-07-11 20:54:24,344: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 223, in run_from_argv
+    return self(*args, **options)
+[2022-07-11 20:54:24,345: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/base.py", line 253, in __call__
+    ret = self.run(*args, **kwargs)
+[2022-07-11 20:54:24,347: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bin/worker.py", line 259, in run
+    worker.start()
+[2022-07-11 20:54:24,349: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/worker/worker.py", line 208, in start
+    self.blueprint.start(self)
+[2022-07-11 20:54:24,350: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+[2022-07-11 20:54:24,351: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 369, in start
+    return self.obj.start()
+[2022-07-11 20:54:24,352: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/base.py", line 132, in start
+    self.on_start()
+[2022-07-11 20:54:24,352: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/prefork.py", line 111, in on_start
+    P = self._pool = Pool(processes=self.limit,
+[2022-07-11 20:54:24,353: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 486, in __init__
+    super(AsynPool, self).__init__(processes, *args, **kwargs)
+[2022-07-11 20:54:24,354: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1046, in __init__
+    self._create_worker_process(i)
+[2022-07-11 20:54:24,355: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/concurrency/asynpool.py", line 503, in _create_worker_process
+    return super(AsynPool, self)._create_worker_process(i)
+[2022-07-11 20:54:24,355: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 1158, in _create_worker_process
+    w.start()
+[2022-07-11 20:54:24,356: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 124, in start
+    self._popen = self._Popen(self)
+[2022-07-11 20:54:24,356: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/context.py", line 333, in _Popen
+    return Popen(process_obj)
+[2022-07-11 20:54:24,357: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 24, in __init__
+    self._launch(process_obj)
+[2022-07-11 20:54:24,358: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/popen_fork.py", line 79, in _launch
+    code = process_obj._bootstrap()
+[2022-07-11 20:54:24,358: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 327, in _bootstrap
+    self.run()
+[2022-07-11 20:54:24,359: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+[2022-07-11 20:54:24,360: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 292, in __call__
+    sys.exit(self.workloop(pid=pid))
+[2022-07-11 20:54:24,361: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/billiard/pool.py", line 362, in workloop
+    result = (True, prepare_result(fun(*args, **kwargs)))
+[2022-07-11 20:54:24,366: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 611, in _fast_trace_task
+    R, I, T, Rstr = tasks[task].__trace__(
+[2022-07-11 20:54:24,367: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 412, in trace_task
+    R = retval = fun(*args, **kwargs)
+[2022-07-11 20:54:24,368: WARNING/ForkPoolWorker-2] File "/usr/local/lib/python3.9/site-packages/celery/app/trace.py", line 704, in __protected_call__
+    return self.run(*args, **kwargs)
+[2022-07-11 20:54:24,370: WARNING/ForkPoolWorker-2] File "/usr/src/app/worker.py", line 53, in create_task
+    logging.error("Error: ", xx)
+[2022-07-11 20:54:24,370: WARNING/ForkPoolWorker-2] Message: 'Error: '
+Arguments: (ValidationError(model='ItemCreate', errors=[{'loc': ('description',), 'msg': 'str type expected', 'type': 'type_error.str'}]),)
+[2022-07-11 20:54:24,371: WARNING/ForkPoolWorker-2] ERROR:
+[2022-07-11 20:54:24,372: WARNING/ForkPoolWorker-2] 1 validation error for ItemCreate
+description
+  str type expected (type=type_error.str)
+[2022-07-11 20:54:24,374: INFO/ForkPoolWorker-2] Task create_task[b8456b6a-2b8e-45b2-a1db-fd6221966fc1] succeeded in 20.107676800000036s: True
+[2022-07-11 20:54:26,127: WARNING/MainProcess] consumer: Connection to broker lost. Trying to re-establish the connection...
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/celery/worker/consumer/consumer.py", line 318, in start
+    blueprint.start(self)
+  File "/usr/local/lib/python3.9/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+  File "/usr/local/lib/python3.9/site-packages/celery/worker/consumer/consumer.py", line 599, in start
+    c.loop(*c.loop_args())
+  File "/usr/local/lib/python3.9/site-packages/celery/worker/loops.py", line 83, in asynloop
+    next(loop)
+  File "/usr/local/lib/python3.9/site-packages/kombu/asynchronous/hub.py", line 364, in create_loop
+    cb(*cbargs)
+  File "/usr/local/lib/python3.9/site-packages/kombu/transport/redis.py", line 1083, in on_readable
+    self.cycle.on_readable(fileno)
+  File "/usr/local/lib/python3.9/site-packages/kombu/transport/redis.py", line 354, in on_readable
+    chan.handlers[type]()
+  File "/usr/local/lib/python3.9/site-packages/kombu/transport/redis.py", line 688, in _receive
+    ret.append(self._receive_one(c))
+  File "/usr/local/lib/python3.9/site-packages/kombu/transport/redis.py", line 698, in _receive_one
+    response = c.parse_response()
+  File "/usr/local/lib/python3.9/site-packages/redis/client.py", line 3505, in parse_response
+    response = self._execute(conn, conn.read_response)
+  File "/usr/local/lib/python3.9/site-packages/redis/client.py", line 3479, in _execute
+    return command(*args, **kwargs)
+  File "/usr/local/lib/python3.9/site-packages/redis/connection.py", line 739, in read_response
+    response = self._parser.read_response()
+  File "/usr/local/lib/python3.9/site-packages/redis/connection.py", line 324, in read_response
+    raw = self._buffer.readline()
+  File "/usr/local/lib/python3.9/site-packages/redis/connection.py", line 256, in readline
+    self._read_from_socket()
+  File "/usr/local/lib/python3.9/site-packages/redis/connection.py", line 201, in _read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+[2022-07-11 20:54:26,140: WARNING/MainProcess] Restoring 5 unacknowledged message(s)
+[2022-07-11 20:54:40,527: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-07-11 20:54:40,543: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-11 20:54:41,575: INFO/MainProcess] mingle: all alone
+[2022-07-11 20:54:41,608: INFO/MainProcess] celery@7ccefe162ce0 ready.
+[2022-07-11 20:54:45,641: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-11 20:54:53,685: INFO/MainProcess] Received task: create_task[d605a2ee-1db3-4e01-805d-dc98de0af296]  
+[2022-07-11 20:54:55,697: INFO/MainProcess] Received task: create_task[0b0a9283-63e8-473f-85e0-1b5302c00c87]  
+[2022-07-11 20:54:56,800: INFO/MainProcess] Received task: create_task[c82e8f13-2191-41d5-99ca-b7e95afc1988]  
+[2022-07-11 20:55:03,698: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 20:55:03,797: INFO/ForkPoolWorker-1] Task create_task[d605a2ee-1db3-4e01-805d-dc98de0af296] succeeded in 10.10872970000014s: True
+[2022-07-11 20:55:15,703: INFO/ForkPoolWorker-2] SESSION CREATE ---- 
+[2022-07-11 20:55:15,829: INFO/ForkPoolWorker-2] Task create_task[0b0a9283-63e8-473f-85e0-1b5302c00c87] succeeded in 20.127435699999978s: True
+[2022-07-11 20:55:33,820: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 20:55:33,911: INFO/ForkPoolWorker-1] Task create_task[c82e8f13-2191-41d5-99ca-b7e95afc1988] succeeded in 30.11119439999993s: True
+[2022-07-11 20:57:34,070: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-07-11 20:57:34,081: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-11 20:57:35,105: INFO/MainProcess] mingle: all alone
+[2022-07-11 20:57:35,121: INFO/MainProcess] celery@ab8be960ded9 ready.
+[2022-07-11 20:57:39,116: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-11 20:57:42,709: INFO/MainProcess] Received task: create_task[52306351-afbb-496b-8407-84c48afe1d2d]  
+[2022-07-11 20:57:44,236: INFO/MainProcess] Received task: create_task[a164ed3b-0210-4efb-a46b-f471e6d4ba91]  
+[2022-07-11 20:57:45,465: INFO/MainProcess] Received task: create_task[e3d47c23-589f-4962-af3c-efa9c89cb8a9]  
+[2022-07-11 20:57:52,724: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 20:57:52,815: INFO/ForkPoolWorker-1] Task create_task[52306351-afbb-496b-8407-84c48afe1d2d] succeeded in 10.10214219999989s: True
+[2022-07-11 20:58:04,260: INFO/ForkPoolWorker-2] SESSION CREATE ---- 
+[2022-07-11 20:58:04,391: INFO/ForkPoolWorker-2] Task create_task[a164ed3b-0210-4efb-a46b-f471e6d4ba91] succeeded in 20.151877700000114s: True
+[2022-07-11 20:58:22,850: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 20:58:22,934: INFO/ForkPoolWorker-1] Task create_task[e3d47c23-589f-4962-af3c-efa9c89cb8a9] succeeded in 30.114035999999942s: True
+[2022-07-11 20:58:28,598: INFO/MainProcess] Received task: create_task[e55c071b-ff7b-4268-8613-5aba60193991]  
+[2022-07-11 20:58:38,602: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 20:58:38,726: INFO/ForkPoolWorker-1] Task create_task[e55c071b-ff7b-4268-8613-5aba60193991] succeeded in 10.124887199999876s: True
+[2022-07-11 20:58:39,549: INFO/MainProcess] Received task: create_task[e0cc7f2d-0b59-46a1-9723-f8e2a4eefed7]  
+[2022-07-11 20:58:40,604: INFO/MainProcess] Received task: create_task[6fc3f035-a161-48ea-8bf5-4fff58615412]  
+[2022-07-11 20:58:41,906: INFO/MainProcess] Received task: create_task[0a00c494-a718-42d8-9fc3-c7403b2e0e06]  
+[2022-07-11 20:58:43,304: INFO/MainProcess] Received task: create_task[19efe1cf-92b1-47a2-b8de-96549856d42a]  
+[2022-07-11 20:58:59,566: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 20:58:59,717: INFO/ForkPoolWorker-1] Task create_task[e0cc7f2d-0b59-46a1-9723-f8e2a4eefed7] succeeded in 20.164043900000024s: True
+[2022-07-11 20:59:07,292: INFO/MainProcess] Received task: create_task[3c9aa6a9-3fc9-4362-997c-8d264462cf07]  
+[2022-07-11 20:59:09,732: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 20:59:09,814: INFO/ForkPoolWorker-1] Task create_task[0a00c494-a718-42d8-9fc3-c7403b2e0e06] succeeded in 10.092623199999935s: True
+[2022-07-11 20:59:10,615: INFO/ForkPoolWorker-2] SESSION CREATE ---- 
+[2022-07-11 20:59:10,719: INFO/ForkPoolWorker-2] Task create_task[6fc3f035-a161-48ea-8bf5-4fff58615412] succeeded in 30.112642399999913s: True
+[2022-07-11 20:59:20,729: INFO/ForkPoolWorker-2] SESSION CREATE ---- 
+[2022-07-11 20:59:20,809: INFO/ForkPoolWorker-2] Task create_task[3c9aa6a9-3fc9-4362-997c-8d264462cf07] succeeded in 10.08629760000008s: True
+[2022-07-11 20:59:29,832: INFO/ForkPoolWorker-1] SESSION CREATE ---- 
+[2022-07-11 20:59:29,912: INFO/ForkPoolWorker-1] Task create_task[19efe1cf-92b1-47a2-b8de-96549856d42a] succeeded in 20.095036700000037s: True
